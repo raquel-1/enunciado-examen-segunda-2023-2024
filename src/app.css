@@ -1,0 +1,39 @@
+:root {
+	--white: #fff;
+	--primary-text: #212121;
+	--secondary-text: #757575;
+	--divider: #bdbdbd;
+	--primary-color: #ff3e00;
+	--content-padding: 1.2rem;
+}
+
+html {
+	background: var(--divider);
+	font-family: system-ui, sans-serif;
+	font-size: 16px;
+	color: var(--primary-text);
+	line-height: 1.5;
+	height: -webkit-fill-available;
+}
+
+body {
+	margin: 0;
+	height: 100vh;
+	height: -webkit-fill-available;
+}
+
+a {
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+#svelte {
+	height: 100%;
+}
+
+* {
+	-webkit-tap-highlight-color: transparent;
+}

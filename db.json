@@ -1,0 +1,1406 @@
+{
+    "videos": [
+        {
+            "id": "Qf5wdXOxW3E",
+            "title": "Scroll-Linked Animations with ScrollTimeline and ViewTimeline | HTTP 203",
+            "published": "2022-10-25T15:52:53Z",
+            "category": "2022"
+        },
+        {
+            "id": "azoIMhKOucQ",
+            "title": "How rotate(0) fixed my transform animation | HTTP 203",
+            "published": "2022-10-11T14:05:17Z",
+            "category": "2022"
+        },
+        {
+            "id": "VdNzD4lhidw",
+            "title": "A love letter to DOMPoint and DOMMatrix | HTTP 203",
+            "published": "2022-09-27T06:19:50Z",
+            "category": "2022"
+        },
+        {
+            "id": "xl9R8aTOW_I",
+            "title": "It's viewports all the way down | HTTP 203",
+            "published": "2022-09-13T16:00:58Z",
+            "category": "2022"
+        },
+        {
+            "id": "LLRig4s1_yA",
+            "title": "Magic tricks with the HTML parser | HTTP 203",
+            "published": "2022-08-30T15:06:02Z",
+            "category": "2022"
+        },
+        {
+            "id": "_iq1fPjeqMQ",
+            "title": "DOM ready events considered harmful | HTTP 203",
+            "published": "2022-07-26T14:10:10Z",
+            "category": "2022"
+        },
+        {
+            "id": "9qen5CKjUe8",
+            "title": "Demystifyingish SVG paths | HTTP 203",
+            "published": "2022-07-12T14:12:29Z",
+            "category": "2022"
+        },
+        {
+            "id": "8q_05PUYv1o",
+            "title": "FLIP animations | HTTP 203",
+            "published": "2022-06-28T05:50:01Z",
+            "category": "2022"
+        },
+        {
+            "id": "cgKUMRPAliw",
+            "title": "The history API is dead. Long live the navigation API | HTTP 203",
+            "published": "2022-06-07T03:06:23Z",
+            "category": "2022"
+        },
+        {
+            "id": "F-rZOIBGIaQ",
+            "title": "Samsung Internet - the why & how | HTTP 203",
+            "published": "2022-05-24T14:03:34Z",
+            "category": "2022"
+        },
+        {
+            "id": "3sMflOp5kiQ",
+            "title": "Is .css a bad idea? Is inlining the way forward? | HTTP 203",
+            "published": "2022-05-03T14:17:09Z",
+            "category": "2022"
+        },
+        {
+            "id": "jLqTXkFtEH0",
+            "title": "What key was pressed? (You won't believe how keyboard events work) | HTTP 203",
+            "published": "2022-03-29T15:01:58Z",
+            "category": "2022"
+        },
+        {
+            "id": "XF29nLkkeLo",
+            "title": "Building VR and AR experiences using HTML | HTTP 203",
+            "published": "2022-03-15T16:00:12Z",
+            "category": "2022"
+        },
+        {
+            "id": "PYSOnC2CrD8",
+            "title": "Cross-fading DOM elements | HTTP 203",
+            "published": "2022-01-04T17:10:26Z",
+            "category": "2022"
+        },
+        {
+            "id": "Uh95jZPTDfw",
+            "title": "Generating your color palette in CSS | HTTP 203",
+            "published": "2021-12-27T07:57:49Z",
+            "category": "2021"
+        },
+        {
+            "id": "doeOKTZSX6A",
+            "title": "The Zombie DOM - old DOM stuff that still haunts us today | HTTP 203",
+            "published": "2021-12-13T17:29:56Z",
+            "category": "2021"
+        },
+        {
+            "id": "8FuafvJLDpM",
+            "title": "Bringing bounce and elastic easing to CSS | HTTP 203",
+            "published": "2021-11-30T07:45:43Z",
+            "category": "2021"
+        },
+        {
+            "id": "pIIHJ-NIyes",
+            "title": "Yes, we use a Joy-Con to change slides. Here's how… | HTTP 203",
+            "published": "2021-11-09T17:59:54Z",
+            "category": "2021"
+        },
+        {
+            "id": "ivLhf3hq7eM",
+            "title": "Are SPAs better than MPAs? | HTTP 203",
+            "published": "2021-10-19T06:35:43Z",
+            "category": "2021"
+        },
+        {
+            "id": "7EKEav7Io5Y",
+            "title": "Avoiding layout shift by putting the CSS in charge - HTTP 203",
+            "published": "2021-09-27T23:39:11Z",
+            "category": "2021"
+        },
+        {
+            "id": "cGyLHxn16pE",
+            "title": "Color Spaces: Do YOU know the difference between sRGB, LAB and CIE XYZ? - HTTP 203",
+            "published": "2021-09-14T05:39:17Z",
+            "category": "2021"
+        },
+        {
+            "id": "ALKqavp9Fg0",
+            "title": "Random paint effects - HTTP 203",
+            "published": "2021-08-31T14:10:38Z",
+            "category": "2021"
+        },
+        {
+            "id": "SYkzk_j3yb0",
+            "title": "Deno - HTTP 203",
+            "published": "2021-08-17T05:14:30Z",
+            "category": "2021"
+        },
+        {
+            "id": "YDU_3WdfkxA",
+            "title": "Debugging memory leaks - HTTP 203",
+            "published": "2021-08-03T14:17:43Z",
+            "category": "2021"
+        },
+        {
+            "id": "-Ktb6mUkznI",
+            "title": "HTTP 203: Season 8 trailer",
+            "published": "2021-07-26T23:31:04Z",
+            "category": "2021"
+        },
+        {
+            "id": "Lh9q3h2khlc",
+            "title": "Top 10 performance pitfalls - HTTP 203",
+            "published": "2021-06-22T15:12:49Z",
+            "category": "2021"
+        },
+        {
+            "id": "PZryHH8roIY",
+            "title": "From nothin’ to gzip - HTTP 203",
+            "published": "2021-06-08T14:41:14Z",
+            "category": "2021"
+        },
+        {
+            "id": "-7k3H2GxE5E",
+            "title": "Progressively loading images - HTTP 203",
+            "published": "2021-05-26T14:09:00Z",
+            "category": "2021"
+        },
+        {
+            "id": "hFyQn5F5pc0",
+            "title": "Conducting tech interviews - HTTP 203",
+            "published": "2021-04-20T16:01:15Z",
+            "category": "2021"
+        },
+        {
+            "id": "u0Jgz6QVJqg",
+            "title": "AssemblyScript - HTTP 203",
+            "published": "2021-04-05T20:06:21Z",
+            "category": "2021"
+        },
+        {
+            "id": "W6lvQvdeF8U",
+            "title": "The big back button quiz - HTTP 203",
+            "published": "2021-03-22T18:49:18Z",
+            "category": "2021"
+        },
+        {
+            "id": "flf2vS0IoRs",
+            "title": "Writing Good Alt Text - HTTP 203",
+            "published": "2021-03-01T21:09:44Z",
+            "category": "2021"
+        },
+        {
+            "id": "8eHInw9_U8k",
+            "title": "Scheduling Tasks - HTTP 203",
+            "published": "2021-02-22T19:13:08Z",
+            "category": "2021"
+        },
+        {
+            "id": "MCi6AZMkxcU",
+            "title": "JavaScript counters the hard way - HTTP 203",
+            "published": "2021-02-09T16:36:31Z",
+            "category": "2021"
+        },
+        {
+            "id": "wS0Gck00nDw",
+            "title": "Dithering - HTTP 203",
+            "published": "2021-01-26T17:00:44Z",
+            "category": "2021"
+        },
+        {
+            "id": "jG7VfbqqTGw",
+            "title": "Importing JSON - ABANDONED - HTTP 203",
+            "published": "2020-11-12T14:48:42Z",
+            "category": "2020"
+        },
+        {
+            "id": "9-6CKCz58A8",
+            "title": "Web animation gotchas - HTTP 203",
+            "published": "2020-11-10T18:00:12Z",
+            "category": "2020"
+        },
+        {
+            "id": "x9RP-M6q2Mg",
+            "title": "WebAssembly Threads - HTTP 203",
+            "published": "2020-10-27T16:54:06Z",
+            "category": "2020"
+        },
+        {
+            "id": "FFA-v-CIxJQ",
+            "title": "Slashing layout cost with content-visibility - HTTP 203",
+            "published": "2020-10-12T23:53:19Z",
+            "category": "2020"
+        },
+        {
+            "id": "9UNwHmagedE",
+            "title": "3.143 ways to synchronize data across documents - HTTP 203",
+            "published": "2020-09-15T17:00:03Z",
+            "category": "2020"
+        },
+        {
+            "id": "uygxJ8Wxotc",
+            "title": "Weak JavaScript - HTTP 203",
+            "published": "2020-09-01T16:44:50Z",
+            "category": "2020"
+        },
+        {
+            "id": "G9PpImUEeUA",
+            "title": "Streaming requests with fetch - HTTP 203",
+            "published": "2020-08-18T16:53:51Z",
+            "category": "2020"
+        },
+        {
+            "id": "BbVzkuifyl8",
+            "title": "Socially Distant HTTP 203",
+            "published": "2020-08-04T16:02:13Z",
+            "category": "2020"
+        },
+        {
+            "id": "vfAHa5GBLio",
+            "title": "Cross-origin fetches - HTTP 203",
+            "published": "2020-04-07T16:35:31Z",
+            "category": "2020"
+        },
+        {
+            "id": "n6hIa-fPx0M",
+            "title": "Surma’s Interop Adventure - HTTP 203",
+            "published": "2020-03-24T16:15:52Z",
+            "category": "2020"
+        },
+        {
+            "id": "0-wB1VY3Nrc",
+            "title": "Humans can't read URLs. How can we fix it? - HTTP 203",
+            "published": "2020-01-28T14:43:08Z",
+            "category": "2020"
+        },
+        {
+            "id": "qaGjS7-qWzg",
+            "title": "Is reduce() bad? - HTTP 203",
+            "published": "2020-01-14T18:03:49Z",
+            "category": "2020"
+        },
+        {
+            "id": "nQrfbk5WHvY",
+            "title": "The best web feature of 2019: Part 4/4 - HTTP 203",
+            "published": "2019-12-20T09:51:21Z",
+            "category": "2019"
+        },
+        {
+            "id": "1q2ZlT3X36k",
+            "title": "The best web feature of 2019: Part 3/4 - HTTP 203",
+            "published": "2019-12-19T17:18:28Z",
+            "category": "2019"
+        },
+        {
+            "id": "eCGW0FKZ1gg",
+            "title": "The best web feature of 2019: Part 2/4 - HTTP 203",
+            "published": "2019-12-17T18:17:03Z",
+            "category": "2019"
+        },
+        {
+            "id": "Xtmp2HbSreQ",
+            "title": "The best web feature of 2019: Part 1/4 - HTTP 203",
+            "published": "2019-12-16T18:01:04Z",
+            "category": "2019"
+        },
+        {
+            "id": "B-ign0dW51o",
+            "title": "WebAssembly Interface Types - HTTP 203",
+            "published": "2019-10-23T20:32:05Z",
+            "category": "2019"
+        },
+        {
+            "id": "yOcgGSCrn-c",
+            "title": "Import maps - HTTP 203",
+            "published": "2019-09-11T08:46:22Z",
+            "category": "2019"
+        },
+        {
+            "id": "0SWguMrIuTw",
+            "title": "Push Notifications - HTTP 203",
+            "published": "2019-08-27T05:02:12Z",
+            "category": "2019"
+        },
+        {
+            "id": "D61EQuTqvvY",
+            "title": "Is postMessage slow? - HTTP 203",
+            "published": "2019-08-13T17:04:02Z",
+            "category": "2019"
+        },
+        {
+            "id": "5LEuJNLfLN0",
+            "title": "Scope in JavaScript - HTTP 203",
+            "published": "2019-08-01T15:06:39Z",
+            "category": "2019"
+        },
+        {
+            "id": "Hzxy6ml-FYE",
+            "title": "Handling updates offline-first - HTTP 203",
+            "published": "2019-06-25T13:59:52Z",
+            "category": "2019"
+        },
+        {
+            "id": "ViyTYEv9dM8",
+            "title": "Four silly browser hacks - HTTP 203",
+            "published": "2019-06-11T13:38:47Z",
+            "category": "2019"
+        },
+        {
+            "id": "I-EElTqUfjU",
+            "title": "How we got into web development - HTTP 203",
+            "published": "2019-05-28T15:54:59Z",
+            "category": "2019"
+        },
+        {
+            "id": "y1TEPQz02iU",
+            "title": "Changing web standards - HTTP 203",
+            "published": "2019-04-16T16:21:35Z",
+            "category": "2019"
+        },
+        {
+            "id": "EIH6IQgwdAc",
+            "title": "Solving Clickjacking - HTTP 203",
+            "published": "2019-04-02T16:55:34Z",
+            "category": "2019"
+        },
+        {
+            "id": "x1xJ8BCQTf8",
+            "title": "But… why HTTP 203?",
+            "published": "2019-04-01T14:16:03Z",
+            "category": "2019"
+        },
+        {
+            "id": "S0NQwttnr1I",
+            "title": "Loop Tiling - HTTP 203",
+            "published": "2019-03-19T16:00:04Z",
+            "category": "2019"
+        },
+        {
+            "id": "lNOP5dcLZF4",
+            "title": "Share Target - HTTP 203",
+            "published": "2019-03-05T16:05:18Z",
+            "category": "2019"
+        },
+        {
+            "id": "eKuHlSZKlWM",
+            "title": "Context and Optimizations - HTTP 203",
+            "published": "2019-02-19T19:39:50Z",
+            "category": "2019"
+        },
+        {
+            "id": "QXsWaA3HTHA",
+            "title": "JAM Stack - HTTP 203",
+            "published": "2019-02-05T16:58:57Z",
+            "category": "2019"
+        },
+        {
+            "id": "m0JcYPRZuUg",
+            "title": "New Canvas Stuff - HTTP 203",
+            "published": "2019-01-22T17:02:07Z",
+            "category": "2019"
+        },
+        {
+            "id": "cElAoxhQz6w",
+            "title": "Background Fetch - HTTP 203",
+            "published": "2019-01-08T16:44:49Z",
+            "category": "2019"
+        },
+        {
+            "id": "PgESLlNCv94",
+            "title": "Best web features of 2018: The Final! - HTTP203",
+            "published": "2018-12-21T16:55:54Z",
+            "category": "2018"
+        },
+        {
+            "id": "kZ-a6SXTueU",
+            "title": "Best web features of 2018: Part 3/4 - HTTP203",
+            "published": "2018-12-20T15:43:18Z",
+            "category": "2018"
+        },
+        {
+            "id": "URrbSSguYzw",
+            "title": "Best web features of 2018: Part 2/4 - HTTP203",
+            "published": "2018-12-18T16:35:13Z",
+            "category": "2018"
+        },
+        {
+            "id": "adgI8-W1VjE",
+            "title": "Best web features of 2018: Part 1/4 - HTTP203",
+            "published": "2018-12-17T17:08:15Z",
+            "category": "2018"
+        },
+        {
+            "id": "te3Zm4bHBVs",
+            "title": "Old vs New JavaScript - HTTP203",
+            "published": "2018-12-04T21:29:14Z",
+            "category": "2018"
+        },
+        {
+            "id": "UlLQPguE7UQ",
+            "title": "Page Lifecycle API - HTTP203",
+            "published": "2018-11-20T17:36:01Z",
+            "category": "2018"
+        },
+        {
+            "id": "g5CgV__a-ro",
+            "title": "SVG Transform Box - HTTP203",
+            "published": "2018-10-17T06:31:30Z",
+            "category": "2018"
+        },
+        {
+            "id": "COzBv_Ces3g",
+            "title": "JavaScript proposals - HTTP203",
+            "published": "2018-10-02T16:06:45Z",
+            "category": "2018"
+        },
+        {
+            "id": "RoVy9EoIloQ",
+            "title": "Polyfills - HTTP203",
+            "published": "2018-09-18T16:02:43Z",
+            "category": "2018"
+        },
+        {
+            "id": "kBut8LqVgYE",
+            "title": "Broadcast channel - HTTP203",
+            "published": "2018-09-11T18:01:46Z",
+            "category": "2018"
+        },
+        {
+            "id": "_5rX6pt0A_k",
+            "title": "CORB - HTTP203",
+            "published": "2018-08-21T19:22:44Z",
+            "category": "2018"
+        },
+        {
+            "id": "Nzokr6Boeaw",
+            "title": "JavaScript for-loops are… complicated - HTTP203",
+            "published": "2018-08-07T19:47:32Z",
+            "category": "2018"
+        },
+        {
+            "id": "dR_J4X416hg",
+            "title": "Lighthouse and Puppeteer - HTTP203",
+            "published": "2018-07-24T16:31:21Z",
+            "category": "2018"
+        },
+        {
+            "id": "0T4DQYgsazo",
+            "title": "What's new in JavaScript - HTTP203",
+            "published": "2018-07-17T17:19:02Z",
+            "category": "2018"
+        },
+        {
+            "id": "Sz7IIDa7qfw",
+            "title": "Google's Crawler & JavaScript - HTTP203",
+            "published": "2018-07-10T16:17:05Z",
+            "category": "2018"
+        },
+        {
+            "id": "GJRkEYRHVsk",
+            "title": "Web Security - HTTP203",
+            "published": "2018-07-03T16:03:38Z",
+            "category": "2018"
+        },
+        {
+            "id": "Lzj5yvlZGsc",
+            "title": "What's New in Chrome DevTools - HTTP203",
+            "published": "2018-06-26T16:08:13Z",
+            "category": "2018"
+        },
+        {
+            "id": "i7darFvRDVo",
+            "title": "Technical Debt - HTTP203",
+            "published": "2018-06-19T16:07:45Z",
+            "category": "2018"
+        },
+        {
+            "id": "zBbWClbltx8",
+            "title": "Google Chrome Origins - HTTP203",
+            "published": "2018-06-12T16:03:22Z",
+            "category": "2018"
+        },
+        {
+            "id": "zhGym6t3Yo8",
+            "title": "Web Dev Beginnings with Mariko Kosaka - HTTP203",
+            "published": "2018-06-05T16:15:51Z",
+            "category": "2018"
+        },
+        {
+            "id": "zq_8OyYXPYY",
+            "title": "Accessibility with Rob Dodson - HTTP203",
+            "published": "2018-05-29T16:03:47Z",
+            "category": "2018"
+        },
+        {
+            "id": "dfsyABvzpj0",
+            "title": "PWA Starter Kit with Monica Dinculescu - HTTP203",
+            "published": "2018-05-22T16:05:14Z",
+            "category": "2018"
+        },
+        {
+            "id": "xnAtqPRa0Sk",
+            "title": "State of the Web with Ben Galbraith & Dion Almaer - HTTP203",
+            "published": "2018-05-15T16:03:35Z",
+            "category": "2018"
+        },
+        {
+            "id": "loqVnZywmvw",
+            "title": "#SmooshGate - HTTP203",
+            "published": "2018-05-01T16:13:41Z",
+            "category": "2018"
+        },
+        {
+            "id": "xw5HYZ3KBI4",
+            "title": "Work Life Balance - HTTP203",
+            "published": "2018-04-24T16:06:44Z",
+            "category": "2018"
+        },
+        {
+            "id": "lsd2-TCgHEs",
+            "title": "Class-based Tree Shaking - HTTP203",
+            "published": "2018-04-10T15:59:25Z",
+            "category": "2018"
+        },
+        {
+            "id": "d1aWG4u-Z5U",
+            "title": "Resize Observer - HTTP203",
+            "published": "2018-03-27T16:02:18Z",
+            "category": "2018"
+        },
+        {
+            "id": "qIU151UPOSY",
+            "title": "JavaScript Symbols - HTTP203",
+            "published": "2018-03-20T16:04:33Z",
+            "category": "2018"
+        },
+        {
+            "id": "VnxZggnmvpo",
+            "title": "Webpack and Workers - HTTP203",
+            "published": "2018-03-13T15:58:54Z",
+            "category": "2018"
+        },
+        {
+            "id": "2Kuwy-67VyY",
+            "title": "120fps - HTTP203",
+            "published": "2018-02-27T17:01:55Z",
+            "category": "2018"
+        },
+        {
+            "id": "fusAJwee7ws",
+            "title": "EventTarget - HTTP203",
+            "published": "2018-02-13T17:01:59Z",
+            "category": "2018"
+        },
+        {
+            "id": "mo8thg5XGV0",
+            "title": "Import() - HTTP203",
+            "published": "2018-01-30T16:59:55Z",
+            "category": "2018"
+        },
+        {
+            "id": "BoLd3cMc0jQ",
+            "title": "WebWorkers - HTTP203 Advent",
+            "published": "2017-12-23T17:00:04Z",
+            "category": "2017"
+        },
+        {
+            "id": "AGoedbUXa9Q",
+            "title": "Transform Streams - HTTP203 Advent",
+            "published": "2017-12-22T16:59:46Z",
+            "category": "2017"
+        },
+        {
+            "id": "eg8eLH52d4s",
+            "title": "Dynamic Import() - HTTP203 Advent",
+            "published": "2017-12-21T16:59:55Z",
+            "category": "2017"
+        },
+        {
+            "id": "DETklM4JtyQ",
+            "title": "FetchObserver - HTTP203 Advent",
+            "published": "2017-12-20T16:59:49Z",
+            "category": "2017"
+        },
+        {
+            "id": "CyAhHG-1AiI",
+            "title": "Async Iterators & Generators - HTTP203 Advent",
+            "published": "2017-12-19T17:19:07Z",
+            "category": "2017"
+        },
+        {
+            "id": "wFVjeStSL9s",
+            "title": "FlatMap & Flatten - HTTP203 Advent",
+            "published": "2017-12-18T17:12:53Z",
+            "category": "2017"
+        },
+        {
+            "id": "tx0BtNO3gmk",
+            "title": "Template Instantiation - HTTP203 Advent",
+            "published": "2017-12-17T16:59:52Z",
+            "category": "2017"
+        },
+        {
+            "id": "T9zP7eYzQ3k",
+            "title": "Weightless CSS - HTTP203 Advent",
+            "published": "2017-12-16T16:59:48Z",
+            "category": "2017"
+        },
+        {
+            "id": "y64_w3Rivd0",
+            "title": "Web Architecture - HTTP203 Advent",
+            "published": "2017-12-15T17:00:07Z",
+            "category": "2017"
+        },
+        {
+            "id": "ZPkMMShYxKU",
+            "title": "Animation Worklet - HTTP203 Advent",
+            "published": "2017-12-14T17:04:57Z",
+            "category": "2017"
+        },
+        {
+            "id": "qC-jHHOGaT0",
+            "title": "Web Locks API - HTTP203 Advent",
+            "published": "2017-12-13T16:59:56Z",
+            "category": "2017"
+        },
+        {
+            "id": "v1uwxBpKF60",
+            "title": "Background Fetch - HTTP203 Advent",
+            "published": "2017-12-12T17:00:05Z",
+            "category": "2017"
+        },
+        {
+            "id": "18MRkysjsC0",
+            "title": "WeakMaps - HTTP203",
+            "published": "2017-12-05T17:03:31Z",
+            "category": "2017"
+        },
+        {
+            "id": "7cbD-hFkzY0",
+            "title": "Web RTC - HTTP203",
+            "published": "2017-11-21T17:01:27Z",
+            "category": "2017"
+        },
+        {
+            "id": "uCHZJy2n8Qs",
+            "title": "VDOM vs lit-html - HTTP203",
+            "published": "2017-11-07T17:22:48Z",
+            "category": "2017"
+        },
+        {
+            "id": "e6IjNW8OTv0",
+            "title": "Visual Viewport - HTTP203",
+            "published": "2017-10-26T18:01:27Z",
+            "category": "2017"
+        },
+        {
+            "id": "VNr1Kb07aME",
+            "title": "Imposter Syndrome - HTTP203",
+            "published": "2017-10-10T15:59:20Z",
+            "category": "2017"
+        },
+        {
+            "id": "RUEKVj3jE-E",
+            "title": "Web Standards & Flash - HTTP203",
+            "published": "2017-09-26T16:03:30Z",
+            "category": "2017"
+        },
+        {
+            "id": "k2DRz0KIZAU",
+            "title": "HTTP203 Recap",
+            "published": "2016-05-16T15:39:46Z",
+            "category": "2016"
+        },
+        {
+            "id": "CSjL1lrNAx4",
+            "title": "HTTP2 - HTTP203",
+            "published": "2015-11-30T19:32:21Z",
+            "category": "2015"
+        },
+        {
+            "id": "t_pxnrLktNI",
+            "title": "Libraries vs Frameworks - HTTP203",
+            "published": "2015-11-16T11:47:01Z",
+            "category": "2015"
+        },
+        {
+            "id": "Bt2vFmjUELc",
+            "title": "Jake Beats Wikipedia - HTTP203",
+            "published": "2015-11-02T19:46:50Z",
+            "category": "2015"
+        },
+        {
+            "id": "MD0X8Eqdd1Y",
+            "title": "Paul Built A Web App - HTTP203",
+            "published": "2015-10-16T13:10:15Z",
+            "category": "2015"
+        },
+        {
+            "id": "cOPhSJ6SUrg",
+            "title": "Season 3 Trailer - HTTP203",
+            "published": "2015-10-12T09:44:57Z",
+            "category": "2015"
+        },
+        {
+            "id": "pLLLf1QPgoU",
+            "title": "The Future of JavaScript - HTTP203",
+            "published": "2015-10-06T13:42:22Z",
+            "category": "2015"
+        },
+        {
+            "id": "Pvm3k4gpH0A",
+            "title": "Maintainable Code - HTTP203",
+            "published": "2015-09-22T14:36:46Z",
+            "category": "2015"
+        },
+        {
+            "id": "IskiTVqHp18",
+            "title": "Browser Monoculture - HTTP203",
+            "published": "2015-09-08T14:00:44Z",
+            "category": "2015"
+        },
+        {
+            "id": "Hy6wceqkxvA",
+            "title": "HTTP 203: Utopia Vs Dystopia (S2, Ep6)",
+            "published": "2015-07-27T15:34:04Z",
+            "category": "2015"
+        },
+        {
+            "id": "6Zgp_G5o6Oc",
+            "title": "HTTP 203: Performance Matters (S2, Ep5)",
+            "published": "2015-07-13T16:34:03Z",
+            "category": "2015"
+        },
+        {
+            "id": "miLnRHNj7nQ",
+            "title": "HTTP 203: Progressive Loading (S2, Ep4)",
+            "published": "2015-07-01T11:31:51Z",
+            "category": "2015"
+        },
+        {
+            "id": "mdcA5fR91S8",
+            "title": "HTTP 203: CSS Triggers (S1, Ep1)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "SLjuOPXjHno",
+            "title": "HTTP 203: Web Vs Native (S2, Ep1)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "3i9WFgMuKHs",
+            "title": "HTTP 203: Build tools (S2, Ep2)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "_RwzMCRsneU",
+            "title": "HTTP 203: HTTPS Everywhere (S2, Ep3)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "GhFR-G42mOA",
+            "title": "HTTP 203: Font Rendering (S1, Ep4)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "ngBy0H_q-GY",
+            "title": "HTTP 203: Pointer Events (S1, Ep2)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "VJQtNxyKJhQ",
+            "title": "HTTP 203: Gotchas (S1, Ep6)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "4zoC3eaa9z0",
+            "title": "HTTP 203: Frame Timing (S1, Ep3)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "tNgBQC9qMP4",
+            "title": "HTTP 203: Christmas Special (S1, Ep5)",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        },
+        {
+            "id": "kC5MmY54IBE",
+            "title": "HTTP 203: Season 2 Teaser",
+            "published": "2015-07-01T11:30:02Z",
+            "category": "2015"
+        }
+    ],
+    "descriptions": [
+        {
+            "id": "Qf5wdXOxW3E",
+            "description": "<p>Bramus shares his excitement for Scroll-Linked Animations that are powered by nothing but HTML and CSS. JavaScript option that integrates with WAAPI also included!</p>\n<p>Chapters:<br>00:00 - Prologue<br>00:15 - Intro + Teaser Example<br>03:41 - Scroll-Linked vs. Scroll-Triggered Animations<br>05:18 - Basic Example using CSS (Document Timeline, Scroll Progress Timeline, scroll(), animation-timeline)<br>12:31 - Basic Example using JavaScript (ScrollTimeline)<br>14:06 - Named Scroll Progress Timelines (scroll-timeline-name, scroll-timeline-axis)<br>20:31 - Scroll Progress Timelines Offsets<br>25:05 - Tracking Elements as they enter/exit using JavaScript (ViewTimeline)<br>31:09 - Tracking Elements as they enter/exit using CSS (view-timeline-name, view-timeline-axis)<br>32:02 - View Progress Timeline Insets<br>33:07 - View Progress Timeline Examples (Cover Flow, Contact List Fly-in/Fly-Out, Stacking Cards)<br>35:40 - Play with it today!<br>38:04 - Epilogue</p>\n<p>Resources:<br>Cover Flow Demo (CSS) → <a href=\"https://goo.gle/3SvEQbd\">https://goo.gle/3SvEQbd</a><br>Cover Flow Demo (JS+WAAPI) → <a href=\"https://goo.gle/3F9S62h\">https://goo.gle/3F9S62h</a><br>Scroll Progress Demo (CSS) → <a href=\"https://goo.gle/3F9S6zj\">https://goo.gle/3F9S6zj</a><br>Scroll Progress Demo (JS+WAAPI) → <a href=\"https://goo.gle/3Sq5nXn\">https://goo.gle/3Sq5nXn</a><br>Image Reveal on Enter Demo (CSS) → <a href=\"https://goo.gle/3F9S8XX\">https://goo.gle/3F9S8XX</a><br>Image Reveal on Enter Demo (JS+WAAPI) → <a href=\"https://goo.gle/3Sto8JK\">https://goo.gle/3Sto8JK</a><br>List fly-in + fly-out Effect Demo (CSS) →<a href=\"https://goo.gle/3Svg3UE\">https://goo.gle/3Svg3UE</a><br>List fly-in + fly-out Effect Demo (JS+WAAPI) → <a href=\"https://goo.gle/3F9Saix\">https://goo.gle/3F9Saix</a><br>Horizontal Scroll Section Demo (CSS) → <a href=\"https://goo.gle/3SpaDe5\">https://goo.gle/3SpaDe5</a><br>Horizontal Scroll Section Demo (JS+WAAPI) → <a href=\"https://goo.gle/3SAbcBz\">https://goo.gle/3SAbcBz</a><br>Parallax Cover to Sticky Header, faked (JS+WAAPI) → <a href=\"https://goo.gle/3SKoMCR\">https://goo.gle/3SKoMCR</a><br>Stacking Cards Demo (JS+WAAPI) → <a href=\"https://goo.gle/3VW0wjD\">https://goo.gle/3VW0wjD</a></p>\n<p>Collection with all CSS Demos → <a href=\"https://goo.gle/3F9ScqF\">https://goo.gle/3F9ScqF</a><br>Collection with all JS+WAAPI Demos → <a href=\"https://goo.gle/3F9ScXH\">https://goo.gle/3F9ScXH</a></p>\n<p>Scroll-Linked Animations Specification → <a href=\"https://goo.gle/3F9SduJ\">https://goo.gle/3F9SduJ</a><br>Scroll-Linked Animations Polyfill → <a href=\"https://goo.gle/3SyziN8\">https://goo.gle/3SyziN8</a><br>CSS WG Issue “Bring back Scroll-Offsets”→ <a href=\"https://goo.gle/3SxfE4d\">https://goo.gle/3SxfE4d</a><br>document.timeline → <a href=\"https://goo.gle/3SwNF4u\">https://goo.gle/3SwNF4u</a></p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "azoIMhKOucQ",
+            "description": "<p>Jake and Bramus chat about transform animations, in particular how <code>rotate(0)</code> can behave differently to <code>none</code>. </p>\n<p>Spec → <a href=\"https://goo.gle/3Mpi3wj\">https://goo.gle/3Mpi3wj</a><br>Demo → <a href=\"https://goo.gle/3RQGTXb\">https://goo.gle/3RQGTXb</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "VdNzD4lhidw",
+            "description": "<p>Jake shares his love for DOMPoint and DOMMatrix, two little-known APIs that are useful for visual effects!</p>\n<p>Full demo → <a href=\"https://goo.gle/3SuTzDI\">https://goo.gle/3SuTzDI</a><br>DOMPoint → <a href=\"https://goo.gle/3CdWxaE\">https://goo.gle/3CdWxaE</a><br>DOMMatrix → <a href=\"https://goo.gle/3xU3efa\">https://goo.gle/3xU3efa</a><br>Spec → <a href=\"https://goo.gle/3UGAYq5\">https://goo.gle/3UGAYq5</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "xl9R8aTOW_I",
+            "description": "<p>Bramus schools Jake about all the viewports that exist in the browser. If you've had layout issues with position fixed, vw units, or height:100%, this episode will probably explain why.</p>\n<p>Chapters:<br>00:00 - Prologue<br>00:17 - Intro<br>01:03 - Desktop Browsers / The Layout Viewport<br>05:33 - The ICB<br>12:51 - Viewport Units<br>16:07 - Pinch Zoom / The Visual Viewport<br>19:29 - The Layout Viewport, ICB, and Visual Viewport on Mobile Browsers<br>23:30 - The Large, Small, and Dynamic Viewport<br>28:35 - Viewports Units and their relation to the ICB<br>30:25 - Resize Behavior (on mobile) when editable areas gain focus<br>36:01 - The Virtual Keyboard API<br>38:44 - A look into my Crystal Ball<br>42:04 - Interop 2022 Viewport Investigation Effort<br>43:20 - Epilogue</p>\n<p>Resources:<br>The Large, Small, and Dynamic Viewports → <a href=\"https://goo.gle/3qxhne7\">https://goo.gle/3qxhne7</a><br>Prevent content from being hidden underneath the Virtual Keyboard by means of the VirtualKeyboard API → <a href=\"https://goo.gle/3U9rl2X\">https://goo.gle/3U9rl2X</a><br>Interop 2022 Viewport Investigation Effort Discussion → <a href=\"https://goo.gle/3DhBHYN\">https://goo.gle/3DhBHYN</a><br>Interop 2022 Viewport Investigation Effort Test Pages → <a href=\"https://goo.gle/3BDcuqy\">https://goo.gle/3BDcuqy</a><br>CSSWG Issue on Viewport Resize Behavior and Positioning → <a href=\"https://goo.gle/3QJe12q\">https://goo.gle/3QJe12q</a></p>\n<p>Specifications:<br>(Layout) Viewport Definition (CSS2 Specification) → <a href=\"https://goo.gle/3DlfjxG\">https://goo.gle/3DlfjxG</a><br>Containing Block Definition (CSS2 Specification) → <a href=\"https://goo.gle/3Dl9hwN\">https://goo.gle/3Dl9hwN</a><br>Viewport Relative Lengths (CSS Values 4 Specification) → <a href=\"https://goo.gle/3ddLwvZ\">https://goo.gle/3ddLwvZ</a><br>The Visual Viewport (MDN) → <a href=\"https://goo.gle/3L9PsKU\">https://goo.gle/3L9PsKU</a><br>The Visual Viewport API (CSSOM Specification) → <a href=\"https://goo.gle/3qvAJk2\">https://goo.gle/3qvAJk2</a><br>Viewport Variants (CSS Values 4 Specification) → <a href=\"https://goo.gle/3U7Wd3M\">https://goo.gle/3U7Wd3M</a><br>Virtual Keyboard Specification → <a href=\"https://goo.gle/3qzq7R2\">https://goo.gle/3qzq7R2</a></p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "LLRig4s1_yA",
+            "description": "<p>Jake and NEW GUEST (for the next few episodes) Bramus chat about strange behaviors in the HTML parser. Should it be more strict? And, how you can get access to the streaming parser with JavaScript, to speed up your pages.</p>\n<p>Simon Pieters book, \"Idiosyncrasies of the HTML parser\" → <a href=\"https://goo.gle/3PUPKGg\">https://goo.gle/3PUPKGg</a><br>The HTML parsing spec → <a href=\"https://goo.gle/3AY8Cjr\">https://goo.gle/3AY8Cjr</a><br>[p] is one of the many tags whose end tag can be omitted in certain situations → <a href=\"https://goo.gle/3KLlBbH\">https://goo.gle/3KLlBbH</a><br>Formatting elements that carry over if not closed → <a href=\"https://goo.gle/3CHrjZS\">https://goo.gle/3CHrjZS</a><br>The adoption agency algorithm → <a href=\"https://goo.gle/3qevd5j\">https://goo.gle/3qevd5j</a><br>A valid XHTML document → <a href=\"https://goo.gle/3pWgFqG\">https://goo.gle/3pWgFqG</a><br>An invalid XHTML document → <a href=\"https://goo.gle/3cuAJxl\">https://goo.gle/3cuAJxl</a><br>The CSS parsing spec → <a href=\"https://goo.gle/3RDdKPF\">https://goo.gle/3RDdKPF</a><br>Should severe HTML parsing issues be highlighted in DevTools? The DevTools teams says \"no\" → <a href=\"https://goo.gle/3Ri02kX\">https://goo.gle/3Ri02kX</a><br>Prettier discussion on self-closing tags → <a href=\"https://goo.gle/3CK9nhu\">https://goo.gle/3CK9nhu</a><br>Creating a detached HTML document → <a href=\"https://goo.gle/3Rq7Np3\">https://goo.gle/3Rq7Np3</a><br>Streaming a response with fetch() → <a href=\"https://goo.gle/3cuOKLr\">https://goo.gle/3cuOKLr</a><br>Creating a streaming HTML parser in JavaScript → <a href=\"https://goo.gle/3RgokLW\">https://goo.gle/3RgokLW</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "_iq1fPjeqMQ",
+            "description": "<p>Jake and Cassie (still from off of Greensock) talk about DOM ready events, which can slow down your app in unexpected ways. But what are the alternatives?</p>\n<p>DOMContentLoaded → <a href=\"https://goo.gle/3J3QLKt\">https://goo.gle/3J3QLKt</a><br>readyState → <a href=\"https://goo.gle/3d3KS13\">https://goo.gle/3d3KS13</a><br>Script defer → <a href=\"https://goo.gle/3Bf8zQV\">https://goo.gle/3Bf8zQV</a><br>Custom elements → <a href=\"https://goo.gle/3S0EtXa\">https://goo.gle/3S0EtXa</a><br>MUtation observers → <a href=\"https://goo.gle/3Ov3jvv\">https://goo.gle/3Ov3jvv</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "9qen5CKjUe8",
+            "description": "<p>Cassie Evans (from Greensock) chats to Jake about SVG paths, and what that mess of letters and numbers actually means.</p>\n<p>The logo turtle demo → <a href=\"https://goo.gle/3IyzSXT\">https://goo.gle/3IyzSXT</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "8q_05PUYv1o",
+            "description": "<p>Cassie Evans from GreenSock walks through FLIP – a great animation technique for transitioning between states, and also a terrible backronym (yes, Jake writes these descriptions)</p>\n<p>Purple box FLIP demo → <a href=\"https://goo.gle/3mRYiBO\">https://goo.gle/3mRYiBO</a><br>List shuffle demo → <a href=\"https://goo.gle/3xTZ4ob\">https://goo.gle/3xTZ4ob</a><br>List shuffle with GSAP → <a href=\"https://goo.gle/3xVkmlo\">https://goo.gle/3xVkmlo</a><br>List item transform → <a href=\"https://goo.gle/3xxpgDs\">https://goo.gle/3xxpgDs</a><br>GSAP FLIP plugin → <a href=\"https://goo.gle/3NW801Q\">https://goo.gle/3NW801Q</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "cgKUMRPAliw",
+            "description": "<p>In this episode, Cassie (from Greensock) and Jake (not from Greensock) sit down to chat about the new Navigation API, which replaced the old and busted History API.</p>\n<p>Docs on the Navigation API → <a href=\"https://goo.gle/3NWd8T9\">https://goo.gle/3NWd8T9</a><br>The demo → <a href=\"https://goo.gle/395gHYB\">https://goo.gle/395gHYB</a><br>Source for the demo → <a href=\"https://goo.gle/3ax16kX\">https://goo.gle/3ax16kX</a><br>Follow Cassie on Twitter → <a href=\"https://goo.gle/3Q4FQDd\">https://goo.gle/3Q4FQDd</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "F-rZOIBGIaQ",
+            "description": "<p>Ada Rose Canon from Samsung Internet chats to Jake about why Samsung Internet exists, and how it differs from other Chromium browsers.</p>\n<p>Samsung Internet → <a href=\"https://goo.gle/39UwF7Z\">https://goo.gle/39UwF7Z</a><br>Samsung Internet beta → <a href=\"https://goo.gle/3PIxeC3\">https://goo.gle/3PIxeC3</a><br>Samsung Internet DevRel → <a href=\"https://goo.gle/3sZdVLb\">https://goo.gle/3sZdVLb</a><br>Samsung internet on Twitter → <a href=\"https://goo.gle/3GhmpCR\">https://goo.gle/3GhmpCR</a><br>Found a bug on Samsung Internet? Report it to <a href=\"mailto:browser@samsung.com\">browser@samsung.com</a></p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "3sMflOp5kiQ",
+            "description": "<p>Ada (from Samsung Internet) and Jake (not from Samsung Internet) chat about issues with managing CSS, and whether external resources make it harder to build performant sites.</p>\n<p>CSS cascade layers → <a href=\"https://goo.gle/3ODV15M\">https://goo.gle/3ODV15M</a><br>Issues with HTTP/2 PUSH → <a href=\"https://goo.gle/3s8d0Yj\">https://goo.gle/3s8d0Yj</a><br>Web bundles → <a href=\"https://goo.gle/3w4292y\">https://goo.gle/3w4292y</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "jLqTXkFtEH0",
+            "description": "<p>Jake challenges Ada (from Samsung Internet <a href=\"https://developer.samsung.com/internet\">https://developer.samsung.com/internet</a>) to a game of \"what key was pressed\" while diving into how keyboard events work, and the best way to handle user input.</p>\n<p>The original tweet → <a href=\"https://goo.gle/36QUegg\">https://goo.gle/36QUegg</a><br>Wordledge → <a href=\"https://goo.gle/3qIPtMJ\">https://goo.gle/3qIPtMJ</a><br>KeyboardEvent → <a href=\"https://goo.gle/3tLnk9X\">https://goo.gle/3tLnk9X</a><br>Dvorak layout → <a href=\"https://goo.gle/3tHzctr\">https://goo.gle/3tHzctr</a><br>event.code bug → <a href=\"https://goo.gle/3IFKDGo\">https://goo.gle/3IFKDGo</a><br>Keyboard events viewer → <a href=\"https://goo.gle/3JPp07Z\">https://goo.gle/3JPp07Z</a><br>Jake's ancient keyboard talk → <a href=\"https://goo.gle/388PkMk\">https://goo.gle/388PkMk</a><br>Input event → <a href=\"https://goo.gle/3qIueuC\">https://goo.gle/3qIueuC</a><br>Wordle Analyzer → <a href=\"https://goo.gle/36VoRkz\">https://goo.gle/36VoRkz</a><br>The wordle analyzer input implementation → <a href=\"https://goo.gle/36B1pcK\">https://goo.gle/36B1pcK</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "XF29nLkkeLo",
+            "description": "<p>In this episode Ada Rose Cannon from Samsung Internet comes in to chat about VR and AR web standards, and how you can build immersive experiences using markup.</p>\n<p>Ada on Twitter → <a href=\"https://goo.gle/3Jgx4hw\">https://goo.gle/3Jgx4hw</a><br>Samsung Internet → <a href=\"https://goo.gle/36jVIj0\">https://goo.gle/36jVIj0</a><br>A-frame → <a href=\"https://goo.gle/3w91UVY\">https://goo.gle/3w91UVY</a><br>A-frame demo → <a href=\"https://goo.gle/3t974iG\">https://goo.gle/3t974iG</a><br>Wolvic browser → <a href=\"https://goo.gle/3CL1syj\">https://goo.gle/3CL1syj</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "PYSOnC2CrD8",
+            "description": "<p>Turns out it's impossible to cross-fade two DOM elements unless they're opaque. Here's why, and a new feature that could fix it.</p>\n<p>Blog post version of this video → <a href=\"https://goo.gle/3eNzczZ\">https://goo.gle/3eNzczZ</a><br>Alpha compositing → <a href=\"https://goo.gle/3mUHaLY\">https://goo.gle/3mUHaLY</a><br>Shared element transitions → <a href=\"https://goo.gle/3FwtGNA\">https://goo.gle/3FwtGNA</a><br>Mix-blend-mode → <a href=\"https://goo.gle/34bG1sU\">https://goo.gle/34bG1sU</a><br>The standard proposal → <a href=\"https://goo.gle/3eSHOW1\">https://goo.gle/3eSHOW1</a><br>Isolation → <a href=\"https://goo.gle/3eURPli\">https://goo.gle/3eURPli</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "Uh95jZPTDfw",
+            "description": "<p>In this video, Surma and Jake pick up the topic of Color Spaces again, because there’s more to talk about. Device capabilities, perceptually uniform color spaces, color mixing and contrast calculations. And all of that is coming to CSS!</p>\n<p>Previous HTTP203 on color spaces → <a href=\"https://goo.gle/32w0xnr\">https://goo.gle/32w0xnr</a><br>Lea Verou and Chris Lilley’s LCH color picker → <a href=\"https://goo.gle/3stmTkj\">https://goo.gle/3stmTkj</a><br>Lea Verou and Chris Lilley’s Color.js → <a href=\"https://goo.gle/3H53kmy\">https://goo.gle/3H53kmy</a><br>CSS Color 4 color conversion reference implementation → <a href=\"https://goo.gle/3ehAHpW\">https://goo.gle/3ehAHpW</a><br>CSS Color 4 spec → <a href=\"https://goo.gle/3Eq2Nd0\">https://goo.gle/3Eq2Nd0</a><br>CSS Color 5 spec → <a href=\"https://goo.gle/3squTTd\">https://goo.gle/3squTTd</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "doeOKTZSX6A",
+            "description": "<p>Jake and Surma chat about 'features' of yesterday that still get in our way today. You might have encountered some of them before, but here's why they're weird.</p>\n<p>Bgcolor → <a href=\"https://goo.gle/3s2Znuq\">https://goo.gle/3s2Znuq</a><br>X-Mixed-Replace image → <a href=\"https://goo.gle/3pRgwo2\">https://goo.gle/3pRgwo2</a><br>Box model and quirks mode → <a href=\"https://goo.gle/30l5rCQ\">https://goo.gle/30l5rCQ</a><br>image → <a href=\"https://goo.gle/3ym1cDC\">https://goo.gle/3ym1cDC</a><br>document.all in the HTML spec → <a href=\"https://goo.gle/3oOxOTh\">https://goo.gle/3oOxOTh</a><br>document.all in the ES spec → <a href=\"https://goo.gle/3oOQHFK\">https://goo.gle/3oOQHFK</a><br>Live and static nodelists → <a href=\"https://goo.gle/30pXlci\">https://goo.gle/30pXlci</a><br>Java bindings for the DOM spec → <a href=\"https://goo.gle/33gxfcC\">https://goo.gle/33gxfcC</a><br>The WebIDL spec → <a href=\"https://goo.gle/3m1Xn1w\">https://goo.gle/3m1Xn1w</a><br>Document.domain → <a href=\"https://goo.gle/33sfwiH\">https://goo.gle/33sfwiH</a></p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "8FuafvJLDpM",
+            "description": "<p>You can ease-in, you can ease-out, but CSS doesn't let you bounce. Jake and Surma chat about a proposal to fix that.</p>\n<p>cubic-bezier editor → <a href=\"https://goo.gle/3lkC239\">https://goo.gle/3lkC239</a><br>The thread from 2016 to now → <a href=\"https://goo.gle/3cYR0Hs\">https://goo.gle/3cYR0Hs</a><br>Easings cheatsheet → <a href=\"https://goo.gle/3xKnD5i\">https://goo.gle/3xKnD5i</a><br>Jake's silly worklet proposal → <a href=\"https://goo.gle/3EaW4Vc\">https://goo.gle/3EaW4Vc</a><br>Linear easing generator → <a href=\"https://goo.gle/3I1nXBr\">https://goo.gle/3I1nXBr</a><br>Linear gradient syntax → <a href=\"https://goo.gle/3o83T8c\">https://goo.gle/3o83T8c</a><br>Spec change draft → <a href=\"https://goo.gle/3o3l7DW\">https://goo.gle/3o3l7DW</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "pIIHJ-NIyes",
+            "description": "<p>Jake and Surma use a Joy-Con as a slide clicker because they're cheapskates. Here's how it works, and the coding patterns they use.</p>\n<p>Final code → <a href=\"https://goo.gle/304bT0L\">https://goo.gle/304bT0L</a><br>Why passing Boolean to filter makes Jake nervous → <a href=\"https://goo.gle/3bWg29r\">https://goo.gle/3bWg29r</a><br>Gamepad tester → <a href=\"https://goo.gle/3D07GK0\">https://goo.gle/3D07GK0</a><br>Spec change to add events → <a href=\"https://goo.gle/3qhmi4d\">https://goo.gle/3qhmi4d</a><br>When Jake and Surma did MULTIPLAYER slide clickers → <a href=\"https://goo.gle/3j8xeNI\">https://goo.gle/3j8xeNI</a><br>Haptic actuators, touch pads, and 'pose' in the gamepad extensions API → <a href=\"https://goo.gle/3kgz4vJ\">https://goo.gle/3kgz4vJ</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "ivLhf3hq7eM",
+            "description": "<p>Surma and Jake have a discussion, weighing up the benefits and drawbacks between Single Page Apps (SPAs) and Multi Page Apps (MPAs). </p>\n<p>Jason Miller’s article on “Island Architecture” → <a href=\"https://goo.gle/30zjX9P\">https://goo.gle/30zjX9P</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "7EKEav7Io5Y",
+            "description": "<p>Jake and Surma chat about layouts that put the content in charge, vs layouts that put the CSS in charge, and why that difference matters.</p>\n<p>Jake's ancient article → <a href=\"https://goo.gle/3kLxWBd\">https://goo.gle/3kLxWBd</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "cGyLHxn16pE",
+            "description": "<p>In this episode, Surma explains a bit of the history of color spaces (sRGB, CIE XYZ, p3, rec2020, CIE LAB...) and why they are important. Jake asks questions. </p>\n<p>Bartosz Ciechanowski’s brilliant blog post on color spaces → <a href=\"https://goo.gle/2XeAs9V\">https://goo.gle/2XeAs9V</a><br>Wikipedia on the Retina’s cone cells → <a href=\"https://goo.gle/3BXhhQM\">https://goo.gle/3BXhhQM</a><br>Predefined color spaces in CSS Color → <a href=\"https://goo.gle/2VveJtx\">https://goo.gle/2VveJtx</a><br>@argyleink’s gradient demo → <a href=\"https://goo.gle/3nmjgdp\">https://goo.gle/3nmjgdp</a><br>Converting between CIE XYZ and LAB → <a href=\"https://goo.gle/3txOa3J\">https://goo.gle/3txOa3J</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "ALKqavp9Fg0",
+            "description": "<p>In this episode Jake and Surma chat about creating 'random' paint effects, and why they shouldn't be truly random.</p>\n<p>The original by George Francis → <a href=\"https://goo.gle/3gNvAPO\">https://goo.gle/3gNvAPO</a><br>Houdini.how →<a href=\"https://goo.gle/3jxd6oq\">https://goo.gle/3jxd6oq</a><br>CSS @ property → <a href=\"https://goo.gle/3yvY2M9\">https://goo.gle/3yvY2M9</a><br>CSS.registerProperty → <a href=\"https://goo.gle/3zzNEUK\">https://goo.gle/3zzNEUK</a><br>A collection of JavaScript seeded random number generators → <a href=\"https://goo.gle/3mNoDBX\">https://goo.gle/3mNoDBX</a><br>A real random number generator → <a href=\"https://goo.gle/3jweBTL\">https://goo.gle/3jweBTL</a><br>When Chrome changed its Math.random implementation → <a href=\"https://goo.gle/3Dxd6N4\">https://goo.gle/3Dxd6N4</a><br>Final example → <a href=\"https://goo.gle/3gNAKLK\">https://goo.gle/3gNAKLK</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "SYkzk_j3yb0",
+            "description": "<p>In this episode, Surma gives Jake an introduction to Deno, a TypeScript-based runtime from the creator of Node. </p>\n<p>Ryan Dahl’s talk at JSConf.EU 2018 → <a href=\"https://goo.gle/3g8CsXH\">https://goo.gle/3g8CsXH</a><br>Deno Twitter account says Ryan is wrong → <a href=\"https://goo.gle/3D3fL15\">https://goo.gle/3D3fL15</a><br>Web Streams in Node → <a href=\"https://goo.gle/3z7xQbX\">https://goo.gle/3z7xQbX</a><br>Deno’s website → <a href=\"https://goo.gle/3k0U3Sv\">https://goo.gle/3k0U3Sv</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "YDU_3WdfkxA",
+            "description": "<p>Jake and Surma tackle one of the hardest types of debugging on the web: Memory leaks.</p>\n<p>Some links mentioned:<br>Squoosh → <a href=\"https://goo.gle/2OQBnGG\">https://goo.gle/2OQBnGG</a><br>Leaky version of Squoosh, so you can try the tools for yourself → <a href=\"https://goo.gle/3A7Lwni\">https://goo.gle/3A7Lwni</a><br>Original bug report → <a href=\"https://goo.gle/3jhl7wj\">https://goo.gle/3jhl7wj</a> </p>\n<p>Resize/Intersection observer bug reports:<br>Chrome → <a href=\"https://goo.gle/3rOXM9l\">https://goo.gle/3rOXM9l</a><br>Firefox → <a href=\"https://goo.gle/3s3u54B\">https://goo.gle/3s3u54B</a><br>Safari → <a href=\"https://goo.gle/3xlerT8\">https://goo.gle/3xlerT8</a></p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "-Ktb6mUkznI",
+            "description": "<p>Jake and Surma are going back to the studio for this brand new season of HTTP 203.</p>\n<p>New season starting next Tuesday, 8/3!</p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "Lh9q3h2khlc",
+            "description": "<p>Jake &amp; Surma go through the top 9 + 1 performance issues Jake saw while analyzing a bunch of web sites.</p>\n<p>Who has the fastest F1 website? → <a href=\"https://goo.gle/3x0gr3T\">https://goo.gle/3x0gr3T</a><br>Looking at the Google I/O website → <a href=\"https://goo.gle/3gQkN6J\">https://goo.gle/3gQkN6J</a><br>Document readyState → <a href=\"https://goo.gle/3d3KS13\">https://goo.gle/3d3KS13</a><br>Massive inlined image → <a href=\"https://goo.gle/3qf3uAm\">https://goo.gle/3qf3uAm</a><br>Inlined font in the Squoosh logo → <a href=\"https://goo.gle/3zLI3LS\">https://goo.gle/3zLI3LS</a><br>Squoosh for optimising images → <a href=\"https://goo.gle/2OQBnGG\">https://goo.gle/2OQBnGG</a><br>CSS aspect ratio → <a href=\"https://goo.gle/3gK8V7e\">https://goo.gle/3gK8V7e</a><br>Font loading API → <a href=\"https://goo.gle/3gLBhOv\">https://goo.gle/3gLBhOv</a><br>The old aspect ratio hack → <a href=\"https://goo.gle/3qf23lH\">https://goo.gle/3qf23lH</a><br>Code splitting → <a href=\"https://goo.gle/3xFZcom\">https://goo.gle/3xFZcom</a><br>WATCH OUR TALK → <a href=\"https://goo.gle/3j8xeNI\">https://goo.gle/3j8xeNI</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "PZryHH8roIY",
+            "description": "<p>You know GZIP right? It’s everywhere on the web to reduce the number of bytes going over the wire. In this episode, Surma is giving you a quickstart on how it works.</p>\n<p>DEFLATE spec (RFC 1951) → <a href=\"https://goo.gle/3x5FZMl\">https://goo.gle/3x5FZMl</a><br>Compressor Head → <a href=\"https://goo.gle/3pvVESJ\">https://goo.gle/3pvVESJ</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "-7k3H2GxE5E",
+            "description": "<p>In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make them feel faster.</p>\n<p>Stuff we mention:<br>Tool to slow-load images → <a href=\"https://goo.gle/2ROdm7x\">https://goo.gle/2ROdm7x</a><br>Squoosh → <a href=\"https://goo.gle/2OQBnGG\">https://goo.gle/2OQBnGG</a><br>MozJPEG → <a href=\"https://goo.gle/34hOckh\">https://goo.gle/34hOckh</a><br>lib-jpeg encoder bug → <a href=\"https://goo.gle/2Tn3KkJ\">https://goo.gle/2Tn3KkJ</a><br>Scripting JPEG scans (see 'Multiple Scan / Progression Control') → <a href=\"https://goo.gle/3ccqJpd\">https://goo.gle/3ccqJpd</a><br>Squoosh PR experimenting with scans → <a href=\"https://goo.gle/3vmjh2j\">https://goo.gle/3vmjh2j</a><br>Jake's blog post on AVIF → <a href=\"https://goo.gle/3oQG9En\">https://goo.gle/3oQG9En</a><br>AVIF blurry preview demo → <a href=\"https://goo.gle/2SnUEUa\">https://goo.gle/2SnUEUa</a><br>AVIF preview frame spec discussion → <a href=\"https://goo.gle/3bQ3WPC\">https://goo.gle/3bQ3WPC</a><br>AVIF preview thumbnail feature issue → <a href=\"https://goo.gle/3figOQO\">https://goo.gle/3figOQO</a><br>BlurHash → <a href=\"https://goo.gle/2SqEGbR\">https://goo.gle/2SqEGbR</a> </p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "hFyQn5F5pc0",
+            "description": "<p>In this episode Jake and Surma chat about interviewing for web dev roles, drawing on their good and bad experiences as candidates, and mistakes they've made as interviewers. Covering prep, probing questions, coding tasks, and rating candidates.</p>\n<p>More videos in the HTTP 203 series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n<p>Btw, Jake promises to reply to every comment that contains a 🎈</p>\n"
+        },
+        {
+            "id": "u0Jgz6QVJqg",
+            "description": "<p>Surma gives Jakes a quick-start to AssemblyScript, a TypeScript-like language that compiles to WebAssembly. Is it faster? Smaller? Better? Will it kill JavaScript? All that and more in this video. Maybe. I don’t want to over-promise. Managing expectations is important, you know. Still reading this? Wow you are committed! Leave a comment containing “🐿” so we know that you are a dedicated video description reader!</p>\n<p>Get started with AssemblyScript → <a href=\"http://goo.gle/assemblyscript\">http://goo.gle/assemblyscript</a></p>\n<p>Other videos in the series → <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a></p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a></p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "W6lvQvdeF8U",
+            "description": "<p>How well do you know how the back button works (and other session history related things)? Jake has written an impossible quiz based on some of the weirdest browser behavior he's seen recently. Will Surma survive?</p>\n<p>New history API proposal → <a href=\"http://goo.gle/3qO18qW\">http://goo.gle/3qO18qW</a><br>The back-forward page cache → <a href=\"http://goo.gle/bfcache\">http://goo.gle/bfcache</a></p>\n<p>And here are some issues Jake has filed while investigating the stuff in this episode:</p>\n<p>When traversing fails → <a href=\"http://goo.gle/2PWHFHK\">http://goo.gle/2PWHFHK</a><br>Refreshing a page with iframes → <a href=\"http://goo.gle/2Q4n6cC\">http://goo.gle/2Q4n6cC</a><br>Iframes and unload prompts → <a href=\"http://goo.gle/3qLKkAY\">http://goo.gle/3qLKkAY</a><br>Manual navigations vs link clicks → <a href=\"http://goo.gle/2Npua2A\">http://goo.gle/2Npua2A</a><br>Restoring iframe history on back → <a href=\"http://goo.gle/33vrVQQ\">http://goo.gle/33vrVQQ</a><br>Session storage and browsing contexts → <a href=\"http://goo.gle/30LYM12\">http://goo.gle/30LYM12</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a> </p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "flf2vS0IoRs",
+            "description": "<p>Jake and Surma tackle the age-old problem: what should you include in an image's alt text?</p>\n<p>Mentioned in the episode:<br>Chrome Dev Summit website → <a href=\"http://goo.gle/3upQ0DA\">http://goo.gle/3upQ0DA</a><br>Twitter thread → <a href=\"https://goo.gle/3aSfh1y\">https://goo.gle/3aSfh1y</a><br>Bike photo by Zhang Kaiyv → <a href=\"http://goo.gle/3r0s5c0\">http://goo.gle/3r0s5c0</a><br>Léonie's article → <a href=\"http://goo.gle/3krtzcz\">http://goo.gle/3krtzcz</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a> </p>\n<p>#HTTP203 #ChromeDeveloper #WebDev</p>\n"
+        },
+        {
+            "id": "8eHInw9_U8k",
+            "description": "<p>Tasks, microtasks, nanotasks... JavaScript has it all. Or maybe not. What are they? How do you use them? What do they even mean? Surma rips off Jake’s event loop talk and tells you all about scheduling callback functions in JavaScript. </p>\n<p>Jake’s event loop talk → <a href=\"https://goo.gle/jake-event-loop\">https://goo.gle/jake-event-loop</a><br>JavaScript Counters the Hard Way → <a href=\"https://goo.gle/3bkZjfu\">https://goo.gle/3bkZjfu</a><br>And the gist that Surma totally did not forget about → <a href=\"https://gist.github.com/surma/1fde30101820faf494cc89d5feb1a972\">https://gist.github.com/surma/1fde30101820faf494cc89d5feb1a972</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "MCi6AZMkxcU",
+            "description": "<p>You’ve seen loads of counter tutorials online, but they’re all a bit wrong… or at least most of them are. Jake and Surma dissect different techniques and identify how to make the counter work accurately and efficiently across browsers.</p>\n<p>The optimal reusable solution → <a href=\"http://goo.gle/2LY9GNI\">http://goo.gle/2LY9GNI</a></p>\n<p>Browser bugs for suboptimal CSS animations:<br>Chrome (empty JS anim) → <a href=\"http://goo.gle/3qS3vt7\">http://goo.gle/3qS3vt7</a><br>Chrome (other animations) → <a href=\"http://goo.gle/39izDjS\">http://goo.gle/39izDjS</a><br>WebKit → <a href=\"http://goo.gle/2Mnkt3F\">http://goo.gle/2Mnkt3F</a><br>Mozilla → <a href=\"http://goo.gle/2Nt4T74\">http://goo.gle/2Nt4T74</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "wS0Gck00nDw",
+            "description": "<p>How do you take an image with 256 shades of grey and map it to an image with just two colors? Jake and Surma go down the monochrome image dithering rabbit hole and explain how different dithering techniques work.</p>\n<p>Surma’s blog post → <a href=\"http://goo.gle/3ohHIcK\">http://goo.gle/3ohHIcK</a><br>Surma’s demo tool → <a href=\"https://goo.gle/368vxbN\">https://goo.gle/368vxbN</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "jG7VfbqqTGw",
+            "description": "<p>In nodejs you can 'require' JSON. The same feature was added to the HTML spec, but then… it was removed. Jake and Surma dive into the reasons, and the impact it could have on other kinds of modules.</p>\n<p>Our talk from JamStackConf: <a href=\"https://youtu.be/TsTt7Tja30Q\">https://youtu.be/TsTt7Tja30Q</a></p>\n<p>HTTP203 Series → <a href=\"https://goo.gle/33gRBOd\">https://goo.gle/33gRBOd</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, we do a podcast! <a href=\"https://developers.google.com/web/shows/http203/podcast\">https://developers.google.com/web/shows/http203/podcast</a> (also available via iTunes, Spotify, etc etc)</p>\n"
+        },
+        {
+            "id": "9-6CKCz58A8",
+            "description": "<p>Fading something in, and fading something out – sounds simple right? Unfortunately not! Jake &amp; Surma talk through the various gotchas of animating the web, and how to work around them.</p>\n<p>Using CSS transitions → <a href=\"https://goo.gle/2TXTUCB\">https://goo.gle/2TXTUCB</a><br>Using CSS animations → <a href=\"https://goo.gle/3et8gEq\">https://goo.gle/3et8gEq</a><br>The web animation API → <a href=\"https://goo.gle/3mXbV0C\">https://goo.gle/3mXbV0C</a><br>getAnimations → <a href=\"https://goo.gle/3oXMLk4\">https://goo.gle/3oXMLk4</a><br>commitStyles → <a href=\"https://goo.gle/38d6PsN\">https://goo.gle/38d6PsN</a><br>Event listeners and garbage collection → <a href=\"https://goo.gle/32c4TNd\">https://goo.gle/32c4TNd</a><br>Spec discussions → <a href=\"https://goo.gle/3k1zbIE\">https://goo.gle/3k1zbIE</a><br>The final animateTo function → <a href=\"https://goo.gle/363WVHn\">https://goo.gle/363WVHn</a></p>\n<p>JavaScript animation libraries:<br>jQuery → <a href=\"https://goo.gle/34XEowU\">https://goo.gle/34XEowU</a><br>Greensock → <a href=\"https://greensock.com/\">https://greensock.com/</a><br>AnimeJS → <a href=\"https://animejs.com/\">https://animejs.com/</a><br>The old library Jake made (don't use it) → <a href=\"https://goo.gle/34ZFGaU\">https://goo.gle/34ZFGaU</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "x9RP-M6q2Mg",
+            "description": "<p>Surma tries to explain WebAssembly, threads and WebAssembly Threads to Jake. He also has scary diagrams and uses assembly language. Just in time for Halloween. Spooky. We hope you enjoy. If you read this far, thank you. We appreciate your thoroughness. Put a 👻 at the end of your comment as a secret signal that you are a description reader.</p>\n<p>WebAssembly Text Format → <a href=\"https://goo.gle/2Hwm30W\">https://goo.gle/2Hwm30W</a><br>WebAssembly Spec → <a href=\"https://goo.gle/3krRVSJ\">https://goo.gle/3krRVSJ</a><br>Atomics → <a href=\"https://goo.gle/35pnCGc\">https://goo.gle/35pnCGc</a><br>WebAssembly Threads proposal → <a href=\"https://goo.gle/3krRVSJ\">https://goo.gle/3krRVSJ</a> </p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "FFA-v-CIxJQ",
+            "description": "<p>Jake makes a quick change to the CSS of the HTML spec, and takes the layout time from 50 seconds down to 400ms. Then he spends a much longer amount of time chatting about it with Surma.</p>\n<p>The result → <a href=\"https://goo.gle/34QX5B1\">https://goo.gle/34QX5B1</a><br>More info on content-visibility → <a href=\"https://goo.gle/3digQ8y\">https://goo.gle/3digQ8y</a> </p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "9UNwHmagedE",
+            "description": "<p>Jake chats to Surma about six ways you can synchronise data between documents, but some of them don't work all the time, so a complex and scientific scoring system is needed.</p>\n<p>window.postMessage → <a href=\"https://goo.gle/3c0v4Kz\">https://goo.gle/3c0v4Kz</a><br>Surma mentioned his comlink library <em>again</em> so I guess we have to link to it → <a href=\"https://goo.gle/3hvasLN\">https://goo.gle/3hvasLN</a><br>EventSource → <a href=\"https://goo.gle/3ityojV\">https://goo.gle/3ityojV</a><br>Web Locks → <a href=\"https://goo.gle/3mmCI6I\">https://goo.gle/3mmCI6I</a><br>The storage event → <a href=\"https://goo.gle/3iuPcHk\">https://goo.gle/3iuPcHk</a><br>BroadcastChannel → <a href=\"https://goo.gle/35xBz6n\">https://goo.gle/35xBz6n</a><br>Service worker clients API → <a href=\"https://goo.gle/3mh7oGx\">https://goo.gle/3mh7oGx</a><br>IDB observers → <a href=\"https://goo.gle/3hq3O9D\">https://goo.gle/3hq3O9D</a></p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "uygxJ8Wxotc",
+            "description": "<p>Surma and Jake take a look at 'weak' JavaScript, specifically WeakMap, WeakSet, and the new and shiny WeakRefs.</p>\n<p>Surma mentions his comlink library again so I guess we have to link to it → <a href=\"https://goo.gle/2VLcr6V\">https://goo.gle/2VLcr6V</a><br>More details on WeakRefs → <a href=\"https://goo.gle/3dDdj3p\">https://goo.gle/3dDdj3p</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP 203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a> </p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "G9PpImUEeUA",
+            "description": "<p>Jake and Surma chat about a new experiment landing in Chrome 85 - streaming request uploads with the fetch API.</p>\n<p>Some links we mentioned:<br>The 'year' of streams → <a href=\"https://goo.gle/3iAQoIB\">https://goo.gle/3iAQoIB</a><br>TextDecoder, as a fallback to TextDecoderStream → <a href=\"https://goo.gle/3gSAFo5\">https://goo.gle/3gSAFo5</a><br>Compression streams → <a href=\"https://goo.gle/2DRqtOj\">https://goo.gle/2DRqtOj</a><br>Reactive programming with streams → <a href=\"https://goo.gle/3iCTFqU\">https://goo.gle/3iCTFqU</a><br>The router issue → <a href=\"https://goo.gle/30TeAjK\">https://goo.gle/30TeAjK</a><br>The 'sockets' demo → <a href=\"https://goo.gle/3gUHci3\">https://goo.gle/3gUHci3</a><br>This episode as an article, including origin trial details → <a href=\"https://goo.gle/3kFNCUu\">https://goo.gle/3kFNCUu</a> </p>\n<p>Also, if you enjoyed this, you might like the HTTP 203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a> </p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "BbVzkuifyl8",
+            "description": "<p>Jake and Surma are back, and it’s just like you remember. Sort-of.</p>\n<p>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a> </p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a></p>\n"
+        },
+        {
+            "id": "vfAHa5GBLio",
+            "description": "<p>Do you know your cookies from your CSRF from your CORS from your CORB from your CORP from your COEP? In this episode, Jake and Surma dive into the world of cross-origin fetches, and how the web is still battling against some early design mistakes.</p>\n<p>Details on the SameSite rollback → <a href=\"https://blog.chromium.org/2020/04/temporarily-rolling-back-samesite.html\">https://blog.chromium.org/2020/04/temporarily-rolling-back-samesite.html</a><br>Other videos in the series → <a href=\"https://goo.gle/2wneQLl\">https://goo.gle/2wneQLl</a><br>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2y0I5Uo\">https://goo.gle/2y0I5Uo</a> </p>\n<p>Whoa, thanks for reading the description right to the end! Did you spot the secret message in this episode? There isn't one, but why not tell folks in the comments that you spotted it?</p>\n"
+        },
+        {
+            "id": "n6hIa-fPx0M",
+            "description": "<p>In this episode, Surma tells the story of how he found an interop bug in Chrome and patched it himself. You’d think the story ends there, but interop is hard. Does this story have a happy end? No other way than to find out by watching the video. Also leave a comment if you know which bell end to click.</p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n<p>Whoa, thanks for reading the description right to the end! Why not post a comment saying you spotted the easter egg in this episode. There isn't one of course, but it'll confuse everyone who didn't read the description.</p>\n"
+        },
+        {
+            "id": "0-wB1VY3Nrc",
+            "description": "<p>In this episode, Jake makes the case that URLs are impossible for humans to interpret, especially when it comes to security. What are browsers doing today to overcome that? And, is there a better way?</p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n<p>Whoa, thanks for reading the description right to the end! Why not post a comment saying you spotted the easter egg in this episode. There isn't one of course, but it'll confuse everyone who didn't read the description.</p>\n"
+        },
+        {
+            "id": "qaGjS7-qWzg",
+            "description": "<p>In this episode, Jake and Surma discuss the array function reduce(). Is it good to use it? Is it too “smart”? Does it increase or decrease readability? Does anyone actually read video descriptions? Let us know in the comments!</p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n"
+        },
+        {
+            "id": "nQrfbk5WHvY",
+            "description": "<p>In this series, Jake and Surma whittle 16 features, all released in Chrome in 2019, down to ONE. In this episode:</p>\n<p>➡️ Prefers styles<br>➡️ Native lazy loading<br>➡️ Form elements<br>➡️ fromEntries</p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n"
+        },
+        {
+            "id": "1q2ZlT3X36k",
+            "description": "<p>In this series, Jake and Surma whittle 16 features, all released in Chrome in 2019, down to ONE. In this episode:</p>\n<p>➡️ backdrop-filter<br>➡️ allSettled<br>➡️ Media keys<br>➡️ Background fetch</p>\n<p>Here's our full episode on background fetch → <a href=\"https://goo.gle/2MapE49\">https://goo.gle/2MapE49</a></p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n"
+        },
+        {
+            "id": "eCGW0FKZ1gg",
+            "description": "<p>In this series, Jake and Surma whittle 16 features, all released in Chrome in 2019, down to ONE. In this episode:</p>\n<p>➡️ Image aspect ratio<br>➡️ Blob reading<br>➡️ Images in clipboard<br>➡️ Sharing</p>\n<p>Here's our full episode on share target → <a href=\"https://goo.gle/2M6DynJ\">https://goo.gle/2M6DynJ</a></p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n<p>Also, if you enjoyed this, you might like the HTTP203 podcast! → <a href=\"https://goo.gle/2M5Fpcv\">https://goo.gle/2M5Fpcv</a></p>\n"
+        },
+        {
+            "id": "Xtmp2HbSreQ",
+            "description": "<p>In this series, Jake and Surma whittle 16 features, all released in Chrome in 2019, down to ONE. In this episode:</p>\n<p>➡️ Numeric separators<br>➡️ Intl stuff<br>➡️ string.matchAll<br>➡️ Class fields</p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n"
+        },
+        {
+            "id": "B-ign0dW51o",
+            "description": "<p>Jake and Surma chat about a new feature proposal for WebAssembly, Interface types, that brings higher-level types like strings and arrays to WebAssembly.</p>\n<p>Proposal: <a href=\"https://goo.gle/360dKls\">https://goo.gle/360dKls</a></p>\n<p>Podcast: <a href=\"https://developers.google.com/web/shows/http203/podcast\">https://developers.google.com/web/shows/http203/podcast</a></p>\n<p>Subscribe to Google Chrome Developers here → <a href=\"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>\n"
+        },
+        {
+            "id": "yOcgGSCrn-c",
+            "description": "<p>Jake and Surma chat about a new feature proposal, Import Maps, that lets you alter how JavaScript modules are imported.</p>\n<p>Feature proposal: <a href=\"https://goo.gle/2kslHND\">https://goo.gle/2kslHND</a></p>\n"
+        },
+        {
+            "id": "0SWguMrIuTw",
+            "description": "<p>Jake and Surma look at Web Push Notifications and the underlying APIs, as they are building the website for Chrome Dev Summit 2019.</p>\n"
+        },
+        {
+            "id": "D61EQuTqvvY",
+            "description": "<p>Jake and Surma look at workers and the performance of their messaging primitive postMessage().</p>\n<p>Surma’s blog post on the topic: <a href=\"https://dassur.ma/things/is-postmessage-slow/\">https://dassur.ma/things/is-postmessage-slow/</a></p>\n"
+        },
+        {
+            "id": "5LEuJNLfLN0",
+            "description": "<p>Jake and Surma take a deep dive into the world of variable scoping in JavaScript. var vs const/let and scripts vs modules.</p>\n"
+        },
+        {
+            "id": "Hzxy6ml-FYE",
+            "description": "<p>Jake and Surma chat about handling updates to offline-first apps. Can we do better than \"Click here to update\"? They look at examples from:</p>\n<p><a href=\"https://squoosh.app/\">https://squoosh.app/</a><br><a href=\"https://jakearchibald.github.io/svgomg/\">https://jakearchibald.github.io/svgomg/</a><br><a href=\"https://proxx.app/\">https://proxx.app/</a></p>\n"
+        },
+        {
+            "id": "ViyTYEv9dM8",
+            "description": "<p>Surma reminds Jake of four weird browser bugs they ran into while building <a href=\"https://proxx.app\">https://proxx.app</a>, most of which Jake has blocked from his memory.</p>\n<p>1:45 - Our canvases made iOS Safari crash.<br>7:57 - Dude, where's our worker?<br>12:20 - Troubles inheriting from Event.<br>16:00 - Chrome tries to be helpful and fails.</p>\n<p>And did we mention we do a podcast? <a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a></p>\n"
+        },
+        {
+            "id": "I-EElTqUfjU",
+            "description": "<p>In a particularly self-indulgent episode, Jake and Surma chat about what got them into the web, and the things that helped along the way.</p>\n<p>Also, did you know we do a podcast? No? Well, it's all at <a href=\"https://goo.gle/2MeO8M6\">https://goo.gle/2MeO8M6</a>, or you can subscribe using your podcast player via <a href=\"https://goo.gle/2WqUhIV\">https://goo.gle/2WqUhIV</a>.</p>\n"
+        },
+        {
+            "id": "y1TEPQz02iU",
+            "description": "<p>Something a bit different for HTTP 203: Jake &amp; Surma make a change to a web standard. Includes how to read specs, and how to write web platform tests.</p>\n<p>01:37 There's a problem with IndexedDB.<br>07:07 How do we start adding a feature to the web?<br>08:24 How to find the right spec.<br>10:15 The structure of a web spec.<br>13:26 Proposing a new feature.<br>16:29 THE WORK BEGINS.<br>16:55 Test-driven standards development.<br>37:54 Changing the spec.<br>55:07 Revisiting the tests.<br>58:15 Opening PRs.</p>\n<p>Links:<br>Jake's IDB library <a href=\"https://www.npmjs.com/package/idb\">https://www.npmjs.com/package/idb</a><br>The IndexedDB spec <a href=\"https://w3c.github.io/IndexedDB/\">https://w3c.github.io/IndexedDB/</a><br>The spec issue <a href=\"https://github.com/w3c/IndexedDB/issues/255\">https://github.com/w3c/IndexedDB/issues/255</a><br>Web Platform Tests <a href=\"https://github.com/web-platform-tests/wpt\">https://github.com/web-platform-tests/wpt</a><br>The IDB tests (which were expanded a little after recording) <a href=\"https://github.com/web-platform-tests/wpt/pull/15820/files\">https://github.com/web-platform-tests/wpt/pull/15820/files</a><br>The spec change PR <a href=\"https://github.com/w3c/IndexedDB/pull/257/files\">https://github.com/w3c/IndexedDB/pull/257/files</a></p>\n"
+        },
+        {
+            "id": "EIH6IQgwdAc",
+            "description": "<p>Clickjacking changed the way we have to interact with content from other sites, such as \"like\" buttons, but could Intersection Observer V2 come to the rescue?</p>\n<p>Demo: <a href=\"https://io-v2.glitch.me/\">https://io-v2.glitch.me/</a></p>\n<p>Oh, and here's the 2018 feature 'competition' we mentioned <a href=\"https://www.youtube.com/watch?v=adgI8-W1VjE&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9&amp;index=13\">https://www.youtube.com/watch?v=adgI8-W1VjE&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9&amp;index=13</a></p>\n<p>And did you know we did a podcast? <a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a></p>\n"
+        },
+        {
+            "id": "x1xJ8BCQTf8",
+            "description": "<p>The show's called \"HTTP 203\", but what were the other options?</p>\n<p>HTTP203 Podcast: <a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a></p>\n"
+        },
+        {
+            "id": "S0NQwttnr1I",
+            "description": "<p>Jake and Surma talk about how they optimized the image rotation code in their app Squoosh, how Hacker News taught them about Loop Tiling.</p>\n<p>HTTP 203 Podcast: <a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Surma’s article: <a href=\"https://developers.google.com/web/updates/2019/02/hotpath-with-wasm\">https://developers.google.com/web/updates/2019/02/hotpath-with-wasm</a></p>\n"
+        },
+        {
+            "id": "lNOP5dcLZF4",
+            "description": "<p>Jake demos the Share Target API, including some new bits, just landing in Chrome Canary.</p>\n<p>Squoosh demo: <a href=\"https://share-target--squoosh.netlify.com\">https://share-target--squoosh.netlify.com</a><br>Simple text demo: <a href=\"https://share-target-demo.glitch.me/text/\">https://share-target-demo.glitch.me/text/</a><br>Simple file demo: <a href=\"https://share-target-demo.glitch.me/file/\">https://share-target-demo.glitch.me/file/</a> </p>\n<p>Also, did you know we do a podcast? Yes? Well, here's some links anyway:</p>\n<p><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br><a href=\"https://itunes.apple.com/gb/podcast/http-203/id1042283903\">https://itunes.apple.com/gb/podcast/http-203/id1042283903</a><br><a href=\"https://player.fm/series/88674\">https://player.fm/series/88674</a><br><a href=\"https://open.spotify.com/show/28kMTCei5XHtQodSKEMr6h\">https://open.spotify.com/show/28kMTCei5XHtQodSKEMr6h</a></p>\n"
+        },
+        {
+            "id": "eKuHlSZKlWM",
+            "description": "<p>Jake and Surma talk about the importance of context when making performance optimizations and some common mistakes that some developers make.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n"
+        },
+        {
+            "id": "QXsWaA3HTHA",
+            "description": "<p>Jake and Surma talk about the JAMStack, what it means and how it’s useful for web developers.</p>\n"
+        },
+        {
+            "id": "m0JcYPRZuUg",
+            "description": "<p>Jake and Surma talk about new things involving the Canvas API. Including, but not limited to:</p>\n<p>OffscreenCanvas: <a href=\"https://developers.google.com/web/updates/2018/08/offscreen-canvas\">https://developers.google.com/web/updates/2018/08/offscreen-canvas</a><br>Low-latency mode: <a href=\"https://docs.google.com/document/d/1-Z_dj9AQ4SjgDLAEY3ELR0YrlHR3JZyJPhaHAstS5WU/edit\">https://docs.google.com/document/d/1-Z_dj9AQ4SjgDLAEY3ELR0YrlHR3JZyJPhaHAstS5WU/edit</a></p>\n"
+        },
+        {
+            "id": "cElAoxhQz6w",
+            "description": "<p>Jake shows Surma an actual thing he built using a new web API – Background Fetch.</p>\n<p>Here's the app: <a href=\"https://bgfetch-http203.glitch.me/\">https://bgfetch-http203.glitch.me/</a><br>More details on the podcast: <a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>More info on Background Fetch: <a href=\"https://developers.google.com/web/updates/2018/12/background-fetch\">https://developers.google.com/web/updates/2018/12/background-fetch</a><br>Animation worklets: <a href=\"https://developers.google.com/web/updates/2018/10/animation-worklet\">https://developers.google.com/web/updates/2018/10/animation-worklet</a></p>\n"
+        },
+        {
+            "id": "PgESLlNCv94",
+            "description": "<p>A lot of web platform features landed in Chrome in 2018, but which is the best? This is the 4th and final part!</p>\n<p>Over a mini-series of 4 episodes, Jake and Surma wittle 32 features down to one.</p>\n<p>Part 1: <a href=\"https://www.youtube.com/watch?v=adgI8-W1VjE\">https://www.youtube.com/watch?v=adgI8-W1VjE</a><br>Part 2: <a href=\"https://www.youtube.com/watch?v=URrbSSguYzw\">https://www.youtube.com/watch?v=URrbSSguYzw</a><br>Part 3: <a href=\"https://www.youtube.com/watch?v=kZ-a6SXTueU\">https://www.youtube.com/watch?v=kZ-a6SXTueU</a> </p>\n<p>In this episode:</p>\n<p>trimStart/End <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart\">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart</a><br>import.meta <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta\">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta</a><br>RegEx named capture groups <a href=\"https://developers.google.com/web/updates/2017/07/upcoming-regexp-features\">https://developers.google.com/web/updates/2017/07/upcoming-regexp-features</a><br>Intl.RelativeTimeFormat <a href=\"https://developers.google.com/web/updates/2018/10/intl-relativetimeformat\">https://developers.google.com/web/updates/2018/10/intl-relativetimeformat</a><br>ResizeObserver <a href=\"https://developers.google.com/web/updates/2016/10/resizeobserver\">https://developers.google.com/web/updates/2016/10/resizeobserver</a><br>Audio worklet <a href=\"https://developers.google.com/web/updates/2017/12/audio-worklet\">https://developers.google.com/web/updates/2017/12/audio-worklet</a><br>Fetch cache mode <a href=\"https://fetch.spec.whatwg.org/#concept-request-cache-mode\">https://fetch.spec.whatwg.org/#concept-request-cache-mode</a><br>Class fields <a href=\"https://developers.google.com/web/updates/2018/12/class-fields\">https://developers.google.com/web/updates/2018/12/class-fields</a></p>\n"
+        },
+        {
+            "id": "kZ-a6SXTueU",
+            "description": "<p>A lot of web platform features landed in Chrome in 2018, but which is the best?</p>\n<p>Over a mini-series of 4 episodes, Jake and Surma will wittle 32 features down to one.</p>\n<p>Part 1: <a href=\"https://www.youtube.com/watch?v=adgI8-W1VjE\">https://www.youtube.com/watch?v=adgI8-W1VjE</a><br>Part 2: <a href=\"https://www.youtube.com/watch?v=URrbSSguYzw\">https://www.youtube.com/watch?v=URrbSSguYzw</a> </p>\n<p>In this episode:</p>\n<p>PublicKeyCredential <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential\">https://developer.mozilla.org/en-US/docs/Web/API/PublicKeyCredential</a><br>toggleAttribute <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute\">https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute</a><br>OffscreenCanvas <a href=\"https://developers.google.com/web/updates/2018/08/offscreen-canvas\">https://developers.google.com/web/updates/2018/08/offscreen-canvas</a><br>Focus preventScroll <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus\">https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus</a><br>Sensors <a href=\"https://developers.google.com/web/updates/2017/09/sensors-for-the-web\">https://developers.google.com/web/updates/2017/09/sensors-for-the-web</a><br>BigInt <a href=\"https://developers.google.com/web/updates/2018/05/bigint\">https://developers.google.com/web/updates/2018/05/bigint</a><br>Page Lifecycle <a href=\"https://developers.google.com/web/updates/2018/07/page-lifecycle-api\">https://developers.google.com/web/updates/2018/07/page-lifecycle-api</a><br>Server timing API <a href=\"https://developers.google.com/web/updates/2018/03/nic65#server-timing\">https://developers.google.com/web/updates/2018/03/nic65#server-timing</a></p>\n"
+        },
+        {
+            "id": "URrbSSguYzw",
+            "description": "<p>A lot of web platform features landed in Chrome in 2018, but which is the best?</p>\n<p>Over a mini-series of 4 episodes, Jake and Surma will wittle 32 features down to one.</p>\n<p>Missed part 1? Here it is: <a href=\"https://www.youtube.com/watch?v=adgI8-W1VjE\">https://www.youtube.com/watch?v=adgI8-W1VjE</a></p>\n<p>Features in this episode:</p>\n<p>Async clipboard API <a href=\"https://developers.google.com/web/updates/2018/03/clipboardapi\">https://developers.google.com/web/updates/2018/03/clipboardapi</a><br>CSS typed OM <a href=\"https://developers.google.com/web/updates/2018/03/cssom\">https://developers.google.com/web/updates/2018/03/cssom</a><br>updateViaCache <a href=\"https://developers.google.com/web/updates/2018/06/fresher-sw\">https://developers.google.com/web/updates/2018/06/fresher-sw</a><br>Desktop PWAs <a href=\"https://developers.google.com/web/progressive-web-apps/desktop\">https://developers.google.com/web/progressive-web-apps/desktop</a><br>Bitmapprerendererer <a href=\"https://developers.google.com/web/updates/2018/04/nic66#css-paint-api\">https://developers.google.com/web/updates/2018/04/nic66#css-paint-api</a><br>Web locks <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API\">https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API</a><br>Feature policy <a href=\"https://developers.google.com/web/updates/2018/06/feature-policy\">https://developers.google.com/web/updates/2018/06/feature-policy</a><br>CSS paint API <a href=\"https://developers.google.com/web/updates/2018/01/paintapi\">https://developers.google.com/web/updates/2018/01/paintapi</a></p>\n"
+        },
+        {
+            "id": "adgI8-W1VjE",
+            "description": "<p>A lot of web platform features landed in Chrome in 2018, but which is the best?</p>\n<p>Over a mini-series of 4 episodes, Jake and Surma will whittle 32 features down to one.</p>\n<p>display: contents <a href=\"https://css-tricks.com/get-ready-for-display-contents/\">https://css-tricks.com/get-ready-for-display-contents/</a><br>Reporting Observer <a href=\"https://developers.google.com/web/updates/2018/07/reportingobserver\">https://developers.google.com/web/updates/2018/07/reportingobserver</a><br>Scroll snap <a href=\"https://developers.google.com/web/updates/2018/07/css-scroll-snap\">https://developers.google.com/web/updates/2018/07/css-scroll-snap</a><br>Site isolation <a href=\"http://www.chromium.org/Home/chromium-security/site-isolation\">http://www.chromium.org/Home/chromium-security/site-isolation</a><br>Named workers <a href=\"https://github.com/whatwg/html/issues/2477\">https://github.com/whatwg/html/issues/2477</a><br>Payment handler <a href=\"https://www.w3.org/TR/payment-handler/\">https://www.w3.org/TR/payment-handler/</a><br>Conic gradient <a href=\"https://css-tricks.com/snippets/css/css-conic-gradient/\">https://css-tricks.com/snippets/css/css-conic-gradient/</a><br>AV1 <a href=\"https://www.chromestatus.com/feature/5729898442260480\">https://www.chromestatus.com/feature/5729898442260480</a></p>\n"
+        },
+        {
+            "id": "te3Zm4bHBVs",
+            "description": "<p>Jake and Surma look at the modern JS &amp; web features we take for granted.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "UlLQPguE7UQ",
+            "description": "<p>Jake &amp; Surma go over the Page Lifecycle API, new with Chrome 68. They discuss reasons it was needed and the best ways use it. </p>\n<p>Phil Walton Page Lifecycle API article → <a href=\"http://bit.ly/2CR1ffV\">http://bit.ly/2CR1ffV</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "g5CgV__a-ro",
+            "description": "<p>Jake &amp; Surma discuss SVG’s new-ish transform-box property, which gives control over how transformations are applied.</p>\n<p>Here's a demo of all the techniques discussed → <a href=\"https://codepen.io/jaffathecake/pen/EeVrMv\">https://codepen.io/jaffathecake/pen/EeVrMv</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "COzBv_Ces3g",
+            "description": "<p>Jake and Surma take a look at some of the in-development-and-may-never-happen JavaScript proposals, and give each one an official Surma-score.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "RoVy9EoIloQ",
+            "description": "<p>In this episode, Surma &amp; Jake talks about the conditional loading of polyfills and how to implement it in the world of ES2015 modules. The non-blocking nature of modules makes the old approach of blocking script tags both inefficient and undesirable and with dynamic import landing, the web now offers better ways.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a></p>\n"
+        },
+        {
+            "id": "kBut8LqVgYE",
+            "description": "<p>In this episode, Surma explains Broadcast Channel in two minutes. The Broadcast Channel API is an interesting topic because it’s been around for a long time, is not all that widely supported, but has powerful applications, roughly similar to PubSub. Jake &amp; Surma define Broadcast Channel and lay down a few ways it is put into action.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a></p>\n"
+        },
+        {
+            "id": "_5rX6pt0A_k",
+            "description": "<p>In this episode, Jake and Surma discuss CORB (Cross-Origin Read Blocking), an algorithm that reduces the risk of leaking sensitive data to unwanted or malicious resource loads. They talk about the origin of CORB and its relation to site isolation and Meltdown/Spectre. </p>\n<p>CORB, Chrome Platform Status → <a href=\"http://bit.ly/2w259hU\">http://bit.ly/2w259hU</a><br>CORB for Web Developers → <a href=\"http://bit.ly/2BtqF48\">http://bit.ly/2BtqF48</a><br>Surma’s article on Meltdown/Spectre → <a href=\"http://bit.ly/2N6W7qt\">http://bit.ly/2N6W7qt</a><br>Site Isolation for web developers → <a href=\"http://bit.ly/2LhXFvR\">http://bit.ly/2LhXFvR</a><br>More on Site Isolation → <a href=\"http://bit.ly/2OW1l92\">http://bit.ly/2OW1l92</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>iTunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "Nzokr6Boeaw",
+            "description": "<p>In this episode, Jake and Surma dissect how for-loops actually work and how they’ve evolved. Turns out, it got complicated.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "dR_J4X416hg",
+            "description": "<p>Lighthouse and Puppeteer are two powerful developer tools that can be used together very effectively when building your website. Lighthouse is an open-source, automated audit tool for improving the quality of web pages. Puppeteer is a Node library for controlling headless Chrome. Jake &amp; Surma talk with Eric Bidelman and Vinamrata Singal (aka V) about this tools, how they were developed, and how they can be best used.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! →<br><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "0T4DQYgsazo",
+            "description": "<p>Jake &amp; Surma discuss the latest developments in JavaScript with Mathias Bynens &amp; Sathya Gunasekaran.</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! →<br><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "Sz7IIDa7qfw",
+            "description": "<p>Martin Splitt discusses the future of Google Search with Jake &amp; Surma at I/O ‘18. #HTTP203</p>\n<p>Deep dive into the relationship between Google Search and JavaScript → <a href=\"http://bit.ly/2ulJNKB\">http://bit.ly/2ulJNKB</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "GJRkEYRHVsk",
+            "description": "<p>Jake &amp; Surma talk about web security, Spectre and Meltdown, and the ways that security teams are addressing vulnerabilities. They sit down with Emily Schechter, Product Manager on the Chrome Security team, &amp; Chris Palmer, Software Security Engineer, to discuss the state of web security today. #HTTP203</p>\n<p>Watch Emily &amp; Chris' I/O '18 session, \"Lessons from Spectre and Meltdown\" → <a href=\"http://bit.ly/2KuDUpi\">http://bit.ly/2KuDUpi</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2Kryv2y\">http://bit.ly/2Kryv2y</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "Lzj5yvlZGsc",
+            "description": "<p>Paul Irish &amp; Jason Miller join Jake &amp; Surma to discuss the latest developments now and to come in Chrome Devtools. #HTTP203</p>\n<p>Watch the Paul &amp; Jason IO18 session → <a href=\"https://youtu.be/mfuE53x4b3k\">https://youtu.be/mfuE53x4b3k</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! →<br><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "i7darFvRDVo",
+            "description": "<p>Technical debt is a term for the extra work that is caused by choosing the easiest solution at the beginning of development, instead of a harder, more thorough solution. Chrome developer Ewa Gasperowicz takes time out to join Jake &amp; Surma for a fun discussion about technical debt, web performance, and web performance tools. #HTTP203</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! →<br><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "zBbWClbltx8",
+            "description": "<p>Vice President of engineering, Darin Fisher, talks to Jake &amp; Surma about the beginnings of the Chrome browser &amp; the interview questions he was asked when applying at Google. #HTTP203</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2sPq2LB\">http://bit.ly/2sPq2LB</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2JMAygk\">http://bit.ly/2JMAygk</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "zhGym6t3Yo8",
+            "description": "<p>Mariko Kosaka sits down with Jake &amp; Surma to talk about their early experiences with the web &amp; how they got in to coding. Mariko also buys Jake a birthday present...</p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2H0gX75\">http://bit.ly/2H0gX75</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"https://goo.gl/LRRbSB\">https://goo.gl/LRRbSB</a><br>Itunes → <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "zq_8OyYXPYY",
+            "description": "<p>Jake and Surma talk to Rob Dodson about Accessibility, his SWE (Software Engineering) Rotation and :focus-visible.</p>\n<p>Links from the episode:<br>Rob's talk → <a href=\"http://bit.ly/2GZaKs9\">http://bit.ly/2GZaKs9</a><br>CSS :focus-visible → <a href=\"http://bit.ly/2GZmnze\">http://bit.ly/2GZmnze</a></p>\n<p>The default stylesheet → <a href=\"http://bit.ly/2H0aZ6a\">http://bit.ly/2H0aZ6a</a></p>\n<p>The AOM → <a href=\"http://bit.ly/2GZsYta\">http://bit.ly/2GZsYta</a></p>\n<p>And accessibility devtools → <a href=\"http://bit.ly/2sozm82\">http://bit.ly/2sozm82</a></p>\n<p>Subscribe to the channel! → <a href=\"http://bit.ly/ChromeDevs1\">http://bit.ly/ChromeDevs1</a></p>\n<p>Watch more HTTP203 → <a href=\"http://bit.ly/2H0gX75\">http://bit.ly/2H0gX75</a></p>\n<p>Listen to the HTTP203 podcast for more content! → <a href=\"http://bit.ly/2sngh6n\">http://bit.ly/2sngh6n</a><br>Itunes → <a href=\"https://apple.co/2H0qmLM\">https://apple.co/2H0qmLM</a></p>\n"
+        },
+        {
+            "id": "dfsyABvzpj0",
+            "description": "<p>Jake and Surma talk to Monica Dinculescu about PWA Starter Kit, emoji's and correct personalities! #HTTP203</p>\n<p>MORE THINGS:<br>Monica's I/O talk: <a href=\"https://www.youtube.com/watch?v=we3lLo-UFtk\">https://www.youtube.com/watch?v=we3lLo-UFtk</a><br>PWA starter kit: <a href=\"https://github.com/Polymer/pwa-starter-kit\">https://github.com/Polymer/pwa-starter-kit</a><br>Lit-element: <a href=\"https://github.com/Polymer/lit-element\">https://github.com/Polymer/lit-element</a><br>CSS ::part and ::theme <a href=\"https://meowni.ca/posts/part-theme-explainer/\">https://meowni.ca/posts/part-theme-explainer/</a></p>\n<p>Subscribe to the Chrome Developers channel: <a href=\"https://bit.ly/2HvRBQr\">https://bit.ly/2HvRBQr</a></p>\n<p>Watch more HTTP203: <a href=\"https://bit.ly/2JGctVs\">https://bit.ly/2JGctVs</a></p>\n<p>Listen to HTTP203 podcast for a full hour of web chat:<br><a href=\"https://goo.gl/LRRbSB\">https://goo.gl/LRRbSB</a><br>Itunes: <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "xnAtqPRa0Sk",
+            "description": "<p>Jake Archibald &amp; Surma chat to Ben Galbraith (Director for Chrome) and Dion Almaer (Director of DevRel) about the State of the Web on site at Google I/O. #HTTP203</p>\n<p>Subscribe to the Chrome Developers channel: <a href=\"https://bit.ly/2HvRBQr\">https://bit.ly/2HvRBQr</a></p>\n<p>Watch more HTTP203: <a href=\"https://bit.ly/2JGctVs\">https://bit.ly/2JGctVs</a></p>\n<p>Listen to HTTP203 podcast for a full hour of web chat:<br><a href=\"https://developers.google.com/web/shows/http203/podcast/\">https://developers.google.com/web/shows/http203/podcast/</a><br>Itunes: <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a>\"</p>\n"
+        },
+        {
+            "id": "loqVnZywmvw",
+            "description": "<p>Today on #HTTP203, Jake &amp; Surma discuss the infamous #SmooshGate!</p>\n<p>More information: <a href=\"https://developers.google.com/web/updates/2018/03/smooshgate\">https://developers.google.com/web/updates/2018/03/smooshgate</a></p>\n<p>Subscribe to the channel: <a href=\"https://bit.ly/2HvRBQr\">https://bit.ly/2HvRBQr</a></p>\n<p>Watch more HTTP203: <a href=\"https://bit.ly/2JGctVs\">https://bit.ly/2JGctVs</a></p>\n<p>Listen to HTTP203 podcast for a full hour of web chat:<br>developers.google.com/web/shows/http203/podcast/<br>Itunes: <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "xw5HYZ3KBI4",
+            "description": "<p>In #HTTP203 Surma (@DasSurma) &amp; Jake (@Jaffathecake) discuss how to hack the work-life balancing act. </p>\n<p>Subscribe to the channel: <a href=\"https://bit.ly/2HvRBQr\">https://bit.ly/2HvRBQr</a></p>\n<p>Watch more HTTP203: <a href=\"https://bit.ly/2JGctVs\">https://bit.ly/2JGctVs</a></p>\n<p>Listen to HTTP203 podcast for a full hour of web chat:<br>developers.google.com/web/shows/http203/podcast/<br>Itunes: <a href=\"https://apple.co/2IQagG6\">https://apple.co/2IQagG6</a></p>\n"
+        },
+        {
+            "id": "lsd2-TCgHEs",
+            "description": "<p>Jake Archibald and Surma talk tree shaking in this episode of HTTP203. And show you some code! For the first time. Lovely.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "d1aWG4u-Z5U",
+            "description": "<p>Surma and Jake Archibald discuss observers on todays #HTTP203 - </p>\n<p>Surma's blog post: <a href=\"https://goo.gl/qlyOHk\">https://goo.gl/qlyOHk</a></p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "qIU151UPOSY",
+            "description": "<p>Jake Archibald explains JavaScript Symbols to Surma in 2 minutes. What do you use them for!? Why!? All will be revealed... #HTTP203 </p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "VnxZggnmvpo",
+            "description": "<p>The speed round is back! Surma has but two minutes to explain his recent exploration of Webpack and Workers to Jake. #HTTP203 </p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "2Kuwy-67VyY",
+            "description": "<p>Most devices run at 60Hz, but some new devices run at 120Hz. What does this mean for us mere mortal engineers? Surma and Jake discuss on #HTTP203 </p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; much more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "fusAJwee7ws",
+            "description": "<p>EventTarget has arrived in Canary! Ooooh. Surma &amp; Jake discuss what this means for the web. #HTTP203</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; much more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "mo8thg5XGV0",
+            "description": "<p>JavaScript now has a way to dynamically import modules using the import() function. But is it really a function? #HTTP203</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Dynamic import() article by By Mathias Bynens:<br><a href=\"https://developers.google.com/web/updates/2017/11/dynamic-import\">https://developers.google.com/web/updates/2017/11/dynamic-import</a>?</p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "BoLd3cMc0jQ",
+            "description": "<p>On the final HTTP203 Xmas special, Surma talks about web workers - using a dedicated worker for your site.</p>\n<p>More info: <a href=\"https://goo.gl/ciTokC\">https://goo.gl/ciTokC</a></p>\n<p>Happy holidays!</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "AGoedbUXa9Q",
+            "description": "<p>'Tis the HTTP203 Xmas season! In this episode, Jake talks about transform streams.</p>\n<p>More info: <a href=\"https://goo.gl/fbJ6nE\">https://goo.gl/fbJ6nE</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "eg8eLH52d4s",
+            "description": "<p>In this HTTP203 episode, Surma talks about dynamic import(). Dynamic&nbsp;import()&nbsp;introduces a new function-like form of&nbsp;import&nbsp;that unlocks new capabilities compared to static&nbsp;import.</p>\n<p>This article compares the two and gives an overview of what's new: <a href=\"https://goo.gl/9fEBqP\">https://goo.gl/9fEBqP</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "DETklM4JtyQ",
+            "description": "<p>'Tis the HTTP203 Xmas season! Jake &amp; Surma have 2 minutes to describe about a web thing they're excited about for 2018. In this episode, Jake talks about FetchObserver.</p>\n<p>More info: <a href=\"https://github.com/whatwg/fetch/issues/607\">https://github.com/whatwg/fetch/issues/607</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "CyAhHG-1AiI",
+            "description": "<p>Today, Surma talks about async iterators &amp; generators in HTTP203.</p>\n<p>For more info: <a href=\"https://goo.gl/rBM420\">https://goo.gl/rBM420</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "wFVjeStSL9s",
+            "description": "<p>'Tis the HTTP203 Xmas season! Jake &amp; Surma have 2 minutes to describe about a web thing they're excited about for 2018. In this episode, Jake talks about a proposal for flatten and flatMap.</p>\n<p>More info: <a href=\"https://goo.gl/UNhaoj\">https://goo.gl/UNhaoj</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "tx0BtNO3gmk",
+            "description": "<p>Tis the HTTP203 Xmas season! Jake &amp; Surma have 2 minutes to describe about a web thing they're excited about for 2018. In this episode, Surma talks about Template Instantation.</p>\n<p>GitHub link: <a href=\"https://goo.gl/snw3xe\">https://goo.gl/snw3xe</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "T9zP7eYzQ3k",
+            "description": "<p>In this Xmas episode of HTTP203, Jake talks about weightless CSS: a new pseudo-class that lets you match elements without impacting specificity.</p>\n<p>Draft spec: <a href=\"https://goo.gl/AU9p4T\">https://goo.gl/AU9p4T</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "y64_w3Rivd0",
+            "description": "<p>Surma talks about web architecture and his goal for 2018 - teach developers how to eliminate jank in the main thread. Whether it be JavaScript animations, UI as the main thread, or yielding to the browser, Surma sets out his argument for a jank-free 2018.</p>\n<p>More info here: <a href=\"https://dassur.ma/things/120fps/\">https://dassur.ma/things/120fps/</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. </p>\n<p>Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "ZPkMMShYxKU",
+            "description": "<p>'Tis the HTTP203 Xmas season! Jake &amp; Surma have 2 minutes to describe a web thing they're excited about for 2018. In this episode, Surma tries to describe animation worklets - a new primitive for creating scroll-linked and other high-performance animations on the web.</p>\n<p>Animation Worklets on GitHub: <a href=\"https://goo.gl/v4eGDb\">https://goo.gl/v4eGDb</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. </p>\n<p>Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "qC-jHHOGaT0",
+            "description": "<p>Tis the HTTP203 Xmas season! Jake &amp; Surma have 2 minutes to describe a web thing they're excited about for 2018. In this episode, Jake talks about the Web Locks API for synchronising tasks across tabs &amp; workers.</p>\n<p>More info: <a href=\"https://github.com/inexorabletash/web-locks\">https://github.com/inexorabletash/web-locks</a></p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. </p>\n<p>Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "v1uwxBpKF60",
+            "description": "<p>'Tis the HTTP203 Xmas season! Jake (@jaffathecake) &amp; Surma (@DasSurma) have 2 minutes to describe a web thing that they're excited about for 2018. In this episode, Jake talks through the proposal for a new background fetch API designed to handle large upload/downloads without requiring the browser to run throughout the job. </p>\n<p>NEW EPISODE OF HTTP203 EVERY DAY. Check back in with us for new HTTP203 Advent episodes everyday on the Google Chrome Developers channel.</p>\n<p>More info on background fetch: <a href=\"https://goo.gl/3PNWLD\">https://goo.gl/3PNWLD</a></p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "18MRkysjsC0",
+            "description": "<p>Weakmaps are a way of associating an object with another object, allowing for garbage collection. Jake (@jaffathecake) and Surma (@DasSurma) discuss what they're useful for, and what the trade-offs are. #HTTP203</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; much more: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "7cbD-hFkzY0",
+            "description": "<p>Ever wondered about WebRTC? Well... wonder no more! Sort of. Surma has been dabbling, and does his best to explain his findings to Jake. #HTTP203 </p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Listen to the HTTP203 podcast for a full hour conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "uCHZJy2n8Qs",
+            "description": "<p>Surma &amp; Jake Archibald talk VDOM vs lit-html and evaluate the differences when it comes to developer experience and performance. #HTTP203</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>HTTP203 podcast for the full hour conversation &amp; much more:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "e6IjNW8OTv0",
+            "description": "<p>In todays #HTTP203 Jake Archibald &amp; Surma talk visual viewports, layout viewports, and the general nuances of, well... viewports!</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203 here: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Check out the HTTP203 podcast for the full conversation &amp; much more besides:<br><a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "VNr1Kb07aME",
+            "description": "<p>Surma and Jake Archibald discuss how they feel about imposter syndrome and whether it really matters that you can't remember technical stuff by heart if you can look it up. Plus a little Flexbox hack! #HTTP203</p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n<p>Watch more HTTP203 here: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Check out the HTTP203 podcast for the full conversation: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes link: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n"
+        },
+        {
+            "id": "RUEKVj3jE-E",
+            "description": "<p>Jake Archibald and Surma talk about their experiences with Flash in HTTP203. Which web standards were inspired by Flash? What could Flash do that we're still struggling with today?</p>\n<p>Join the discussion and comment below!</p>\n<p>Check out the HTTP203 podcast: <a href=\"https://goo.gl/LR7gNg\">https://goo.gl/LR7gNg</a><br>Itunes link: <a href=\"https://goo.gl/cf2yRq\">https://goo.gl/cf2yRq</a></p>\n<p>Watch more HTTP203 here: <a href=\"https://goo.gl/bTQMrY\">https://goo.gl/bTQMrY</a></p>\n<p>Subscribe to Chrome Developers here: <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "k2DRz0KIZAU",
+            "description": "<p>Google Developers Jake Archibald and Paul Lewis discuss their philosophies about web development and the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.</p>\n<p>Watch the HTTP203 series here: <a href=\"https://goo.gl/WRKc7L\">https://goo.gl/WRKc7L</a></p>\n<p>Subscribe to the Chrome Developers channel at <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "CSjL1lrNAx4",
+            "description": "<p>In HTTP203 HTTP2, Paul and Jake talk on the future of HTTP and how this will affect building websites, from design to performance.</p>\n<p>Watch more episodes of HTTP 203 here:<br><a href=\"https://goo.gl/WRKc7L\">https://goo.gl/WRKc7L</a></p>\n<p>Subscribe to the Chrome Developers channel at <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "t_pxnrLktNI",
+            "description": "<p>This week Paul &amp; Jake are on a mountain-top vineyard discussing libraries &amp; frameworks.</p>\n<p>Watch more episodes of HTTP 203 here:<br><a href=\"https://goo.gl/WRKc7L\">https://goo.gl/WRKc7L</a></p>\n<p>Subscribe to the Chrome Developers channel at <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "Bt2vFmjUELc",
+            "description": "<p>Jake tells Paul all about his recent performance work, and his attempts to be faster than Wikipedia at rendering their own content.</p>\n<p>Watch more episodes of HTTP 203 here:<br><a href=\"https://goo.gl/WRKc7L\">https://goo.gl/WRKc7L</a></p>\n<p>Subscribe to the Chrome Developers channel at <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "MD0X8Eqdd1Y",
+            "description": "<p>HTTP203: This week, Paul tells Jake all about Voice Memos, an app he built using ES2015 (ES6).</p>\n<p>Here's the app Paul built <a href=\"https://voice-memos.appspot.com/\">https://voice-memos.appspot.com/</a> and a blog post about it <a href=\"https://aerotwist.com/blog/voice-memos/\">https://aerotwist.com/blog/voice-memos/</a></p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9\">https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9</a></p>\n<p>Subscribe to the Chrome Developers channel here: <a href=\"https://www.youtube.com/user/ChromeDevelopers/\">https://www.youtube.com/user/ChromeDevelopers/</a></p>\n"
+        },
+        {
+            "id": "cOPhSJ6SUrg",
+            "description": "<p>HTTP 203 returns September the 8th! The new season chronicles the daft duo's trip to Google I/O 2015. They sample various aspects of the US, get sunburnt, and even find time to talk about the web.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9\">https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9</a></p>\n<p>Subscribe to the Chrome Developers channel at <a href=\"http://goo.gl/LLLNvf\">http://goo.gl/LLLNvf</a></p>\n"
+        },
+        {
+            "id": "pLLLf1QPgoU",
+            "description": "<p>This week, Paul &amp; Jake talk about the future of JavaScript: ES6 and beyond.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9\">https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9</a></p>\n<p>Subscribe to the Chrome Developers channel here: <a href=\"https://www.youtube.com/user/ChromeDevelopers/\">https://www.youtube.com/user/ChromeDevelopers/</a></p>\n"
+        },
+        {
+            "id": "Pvm3k4gpH0A",
+            "description": "<p>Paul and Jake discuss maintainable and reusable code, and a fun way to remember the command line parameters for untaring a file.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9\">https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9</a></p>\n<p>Check out our Website: <a href=\"https://developers.google.com/web/shows/http203/index?hl=en\">https://developers.google.com/web/shows/http203/index?hl=en</a></p>\n<p>Subscribe to the Chrome Developers channel here: <a href=\"https://www.youtube.com/user/ChromeDevelopers/\">https://www.youtube.com/user/ChromeDevelopers/</a></p>\n"
+        },
+        {
+            "id": "IskiTVqHp18",
+            "description": "<p>Paul and Jake are back! This time they're talking about the benefit of multiple browser engines and the power it gives developers.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9\">https://www.youtube.com/watch?v=Hy6wceqkxvA&amp;list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9</a></p>\n<p>Check out our Website: <a href=\"https://developers.google.com/web/shows/http203/index?hl=en\">https://developers.google.com/web/shows/http203/index?hl=en</a></p>\n<p>Subscribe to the Chrome Developers channel here: <a href=\"https://www.youtube.com/user/ChromeDevelopers/\">https://www.youtube.com/user/ChromeDevelopers/</a></p>\n"
+        },
+        {
+            "id": "Hy6wceqkxvA",
+            "description": "<p>What does the future hold for the web? Paul and Jake discuss utopian and dystopian options... and it turns out Paul hates Blade Runner, although he may be confusing it with Highlander.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "6Zgp_G5o6Oc",
+            "description": "<p>From talking vDOM to lying to users, Paul &amp; Jake are all about ensuring users get blazing fast sites.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Subscribe to the Google Developers channel at: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "miLnRHNj7nQ",
+            "description": "<p>Paul and Jake talk about the importance of progressive rendering on the web. Unfortunately, Jake can’t figure out how to say “isomorphic”.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://goo.gl/B0evDX\">https://goo.gl/B0evDX</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "mdcA5fR91S8",
+            "description": "<p>How do you know if a CSS property is going to cause you performance problems? Looks like Paul has an answer he's desperate to tell Jake.<br>Don't miss Jake's bizarre revelation about keyboard design!</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Post your comments to Paul (<a href=\"https://twitter.com/aerotwist\">https://twitter.com/aerotwist</a>) and Jake (<a href=\"https://twitter.com/jaffathecake\">https://twitter.com/jaffathecake</a>) on Twitter.</p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "SLjuOPXjHno",
+            "description": "<p>Jake has developed an allergic reaction to a vital substance, and Paul brings up the highly contentious topic of Web vs Native. Yep, the boys are back with a bang! </p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "3i9WFgMuKHs",
+            "description": "<p>Jake is settling into his brand new role of Headphone Destroyer, and Paul is concerned that it's just too hard to get past building Hello World in today's web.</p>\n<p>Check out the show page here: <a href=\"https://developers.google.com/web/shows/http203/\">https://developers.google.com/web/shows/http203/</a></p>\n<p>Watch more HTTP 203 here: <a href=\"https://goo.gl/5MrXoK\">https://goo.gl/5MrXoK</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "_RwzMCRsneU",
+            "description": "<p>With so many brand new web features being gated on HTTPS, Paul and Jake discuss whether or not expecting HTTPS is a reasonable requirement on web developers. </p>\n<p>Check out the show page here: <a href=\"https://developers.google.com/web/shows/http203/\">https://developers.google.com/web/shows/http203/</a></p>\n<p>Watch more HTTP 203 here: <a href=\"https://goo.gl/5MrXoK\">https://goo.gl/5MrXoK</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "GhFR-G42mOA",
+            "description": "<p>There's nothing more annoying than visiting a site and just seeing white space where the text should be, just because the web font is taking an age to load. Jake brings news of a potential improvement to the web that could help, and he also discovers that conferences are incredibly dangerous places to frequent! </p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Post your comments to Paul (<a href=\"https://twitter.com/aerotwist\">https://twitter.com/aerotwist</a>) and Jake (<a href=\"https://twitter.com/jaffathecake\">https://twitter.com/jaffathecake</a>) on Twitter.</p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "ngBy0H_q-GY",
+            "description": "<p>Pointer Events (no, not the CSS ones, the other ones!) are set to unite input across devices. Jake has a little bit of news for Paul about them. Plus both share a unique 'getting dressed' routine.</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Post your comments to Paul (<a href=\"https://twitter.com/aerotwist\">https://twitter.com/aerotwist</a>) and Jake (<a href=\"https://twitter.com/jaffathecake\">https://twitter.com/jaffathecake</a>) on Twitter.</p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "VJQtNxyKJhQ",
+            "description": "<p>Building for the web is awesome, but sometimes you can find yourself baffled by gotchas. Check out the latest episode of HTTP 203, where Paul tells Jake about three he recently discovered!</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "4zoC3eaa9z0",
+            "description": "<p>Tracking rendering performance and frames per second out in the wild is a challenge for developers, but it looks like Paul wants to tell Jake about a proposed API that could help out. And to make matters even better Jake has some… interesting travel tips!</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Post your comments to Paul (<a href=\"https://twitter.com/aerotwist\">https://twitter.com/aerotwist</a>) and Jake (<a href=\"https://twitter.com/jaffathecake\">https://twitter.com/jaffathecake</a>) on Twitter.</p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "tNgBQC9qMP4",
+            "description": "<p>Ho ho ho! 2014 has been a great year for the web, and Paul and Jake thought a roundup would be just the ticket for finishing the year in festive style! Don’t miss out on the duo’s web Xmas jokes after the credits!</p>\n<p>Watch more HTTP 203 here: <a href=\"https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e\">https://www.youtube.com/playlist?list=PLOU2XLYxmsII_38oWcnQzXs9K9HKBMg-e</a></p>\n<p>Subscribe to the Google Developers channel here: <a href=\"http://goo.gl/mQyv5L\">http://goo.gl/mQyv5L</a></p>\n"
+        },
+        {
+            "id": "kC5MmY54IBE",
+            "description": "<p>HTTP 203 Season 2 is coming 5/18! Paul and Jake are back talking about the Web. Well sort of... if you listen closely you’ll hear a rustle… a Kurt Russell…</p>\n<p>Make sure you subscribe and check out the show page at <a href=\"https://developers.google.com/web/shows/http203/\">https://developers.google.com/web/shows/http203/</a></p>\n"
+        }
+    ]
+}
