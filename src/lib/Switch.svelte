@@ -8,13 +8,18 @@ export let info;
 	//console.log(videosFiltrados);
 	//Ordenar los años de forma descendiente(forma en el cliente)
 	const videosOrdenados = videosFiltrados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
+	
 
+	//OTRA FORMA DE HACERLO
+	const arraySinDuplicados = [...filtrar];
+	const videosOrdenados2 = arraySinDuplicados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
+	
 </script>
 
 
 <ol class="switch">
 	<li><a href="/">All</a></li>
-	{#each videosOrdenados as video}
+	{#each videosOrdenados2 as video}
 		<li><a href="/http203-{video}/">{video}</a></li>
 	{/each}
 	<!--
