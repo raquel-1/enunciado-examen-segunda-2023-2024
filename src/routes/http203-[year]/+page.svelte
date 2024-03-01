@@ -6,6 +6,6 @@
 </script>
 
 <div>
-	<Switch />
+	<Switch info={videos}/>
 	<VideoList info={videos}/>
 </div>

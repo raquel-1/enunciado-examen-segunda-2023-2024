@@ -15,9 +15,10 @@
 
 
 </script>
+
 <ol>
 <!--
-<li>
+	<li>
 		<a href="/videos/azoIMhKOucQ"
 			><img src="http://localhost:4000/azoIMhKOucQ/sd.jpg" alt="HTTP203 Recap" />
 			<p>
@@ -34,7 +35,6 @@
 		>
 	</li>
 -->
-
 	{#each info as video}
 		<li>
 			<a href="/videos/{video.id}"
@@ -47,16 +47,12 @@
 					<time>{formatDate(new Date(video.published))}</time>//con esta fincuion no hace falta hacer funcion formatVideoDate
 					-->
 					<time>{formatVideoDate(video.published)}</time> 
-				</p></a
-			>
+				</p>
+			</a>
 		</li>
 	{/each}
 	
 </ol>
-
-
-
-
 
 <style>
 	ol{
@@ -64,22 +60,22 @@
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		min-height: 50vh;
+		min-height: 40vh;
 	}
 	li{
 		margin: 1rem;
-		width: 20rem;
+		width: 15rem;
 		background-color:white;
-		height: 18rem;
+		height: 14rem;
+		overflow: hidden;
 	}
 	img{
 		width: 100%;
 	}
 	time{
-		margin-left: 15px;
+		position: absolute;
+		width: 100%;
 		color: black;
-		transform: translateY(50px);
-		margin-top: 15px;
+		padding-bottom: 1rem;
 	}
-
 </style>
