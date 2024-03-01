@@ -1,4 +1,4 @@
-<ol>
+<ol class="switch">
 	<li><a href="/">All</a></li>
 	<li><a href="/http203-2022/">2022</a></li>
 	<li><a href="/http203-2021/">2021</a></li>
@@ -11,3 +11,14 @@
 	</li>
 	<li><a href="/http203-2015/">2015</a></li>
 </ol>
+
+
+
+<style>
+	.switch{
+		background-color: beige;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+	}
+</style>

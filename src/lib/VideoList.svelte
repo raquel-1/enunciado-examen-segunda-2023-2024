@@ -1,5 +1,13 @@
+<script>
+	import {formatDate}  from '$lib/utils.js';
+
+	import '../app.css';
+	export let info;
+
+</script>
 <ol>
-	<li>
+<!--
+<li>
 		<a href="/videos/azoIMhKOucQ"
 			><img src="http://localhost:4000/azoIMhKOucQ/sd.jpg" alt="HTTP203 Recap" />
 			<p>
@@ -15,4 +23,50 @@
 			</p></a
 		>
 	</li>
+-->
+
+	{#each info as video}
+		<li>
+			<a href="/videos/{video.id}"
+				><img src="http://localhost:4000/{video.id}/sd.jpg" alt="HTTP203 Recap" />
+				<p>
+					<!--
+					<time>{video.published.slice(0, 10)}</time>
+					-->
+					<time>{formatDate(new Date(video.published))}</time>
+				</p></a
+			>
+		</li>
+	{/each}
+	
 </ol>
+
+
+
+
+
+<style>
+	ol{
+		background-color:lightblue;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		min-height: 50vh;
+	}
+	li{
+		margin: 1rem;
+		width: 20rem;
+		background-color:white;
+		height: 18rem;
+	}
+	img{
+		width: 100%;
+	}
+	time{
+		margin-left: 15px;
+		color: black;
+		transform: translateY(50px);
+		margin-top: 15px;
+	}
+
+</style>

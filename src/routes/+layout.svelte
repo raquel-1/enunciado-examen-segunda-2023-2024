@@ -1,5 +1,8 @@
 <script>
 	import '../app.css';
+	export let data;
+	const title = data.title;
+	let videos = data.videos;
 </script>
 
 <div>
