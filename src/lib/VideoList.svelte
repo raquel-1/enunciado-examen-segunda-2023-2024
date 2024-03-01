@@ -4,6 +4,16 @@
 	import '../app.css';
 	export let info;
 
+
+  // Función para formatear las fechas en el formato deseado
+			function formatVideoDate(dateString) {
+				const date = new Date(dateString);
+				return formatDate(date); // Usa la función formatDate importada para formatear la fecha
+			}
+ //en el html:
+ //			<time>{formatVideoDate(video.published)}</time> 
+
+
 </script>
 <ol>
 <!--
@@ -33,7 +43,10 @@
 					<!--
 					<time>{video.published.slice(0, 10)}</time>
 					-->
-					<time>{formatDate(new Date(video.published))}</time>
+					<!--
+					<time>{formatDate(new Date(video.published))}</time>//con esta fincuion no hace falta hacer funcion formatVideoDate
+					-->
+					<time>{formatVideoDate(video.published)}</time> 
 				</p></a
 			>
 		</li>
