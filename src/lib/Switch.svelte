@@ -15,15 +15,42 @@ export let info;
 	const arraySinDuplicados = [...filtrar];
 	const yearsOrdenados2 = arraySinDuplicados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
 	console.log(yearsOrdenados2);
+
+
+
+	
+		//esta variable indicara que boton esta pulsado(que año), se inicializara primero en null, y en el handleClick es cuando ira cambiando su valor
+	let activeButton = null;
+	//este es el evento que manejamos si hacemos click en el boton, a este evento le pasamos el año en cuestion seleccionado, por lo tanto el activeButton se convertira en ese año
+  
+	function handleClick(year) {
+		// Si se hace clic en "All", simplemente actualizamos activeButton
+		if (year === 'All') {
+			activeButton = year;
+		} else {
+			// Si se hace clic en otro año, actualizamos activeButton solo si es diferente al año actualmente seleccionado
+			activeButton = activeButton === year ? null : year;
+		}
+	}
+
 	
 </script>
 
-
 <ol class="switch">
-	<li><a href="/">All</a></li>
-	{#each yearsOrdenados2 as year}
-		<li><a href="/http203-{year}/">{year}</a></li>
-	{/each}
+    <li on:click={() => handleClick(null)} class:orange={!activeButton}>
+        <!-- Botón "All" -->
+        
+            <a href="/">All</a>
+        
+    </li>
+    {#each yearsOrdenados2 as year}
+        <li on:click={() => handleClick(year)} class:orange={activeButton === year}>
+            <!-- Botones de los años -->
+                <a href="/http203-{year}/">{year}</a>
+        </li>
+    {/each}
+</ol>
+
 	<!--
 		<li><a href="/http203-2022/">2022</a></li>
 		<li><a href="/http203-2021/">2021</a></li>
@@ -34,7 +61,7 @@ export let info;
 		<li><a href="/http203-2016/">2016</a></li>
 		<li><a href="/http203-2015/">2015</a></li>
 	-->
-</ol>
+
 
 <style>
 	.switch{
@@ -44,4 +71,9 @@ export let info;
 		justify-content: space-around;
 		margin: 0;
 	}
+
+	.orange {
+		background-color: orangered;
+	}
+
 </style>
