@@ -6,21 +6,23 @@ export let info;
 	const filtrar = new Set(arrayFiltrado);
 	const videosFiltrados = Array.from(filtrar);//se convierte a array
 	//console.log(videosFiltrados);
+
 	//Ordenar los años de forma descendiente(forma en el cliente)
-	const videosOrdenados = videosFiltrados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
-	
+	const yearsOrdenados = videosFiltrados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
+	console.log(yearsOrdenados);
 
 	//OTRA FORMA DE HACERLO
 	const arraySinDuplicados = [...filtrar];
-	const videosOrdenados2 = arraySinDuplicados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
+	const yearsOrdenados2 = arraySinDuplicados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
+	console.log(yearsOrdenados2);
 	
 </script>
 
 
 <ol class="switch">
 	<li><a href="/">All</a></li>
-	{#each videosOrdenados2 as video}
-		<li><a href="/http203-{video}/">{video}</a></li>
+	{#each yearsOrdenados2 as year}
+		<li><a href="/http203-{year}/">{year}</a></li>
 	{/each}
 	<!--
 		<li><a href="/http203-2022/">2022</a></li>
