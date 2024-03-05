@@ -19,17 +19,22 @@ export let info;
 
 
 	
-		//esta variable indicara que boton esta pulsado(que año), se inicializara primero en null, y en el handleClick es cuando ira cambiando su valor
+	//esta variable indicara que boton esta pulsado(que año), se inicializara primero en null, y en el handleClick es cuando ira cambiando su valor
 	let activeButton = null;
 	//este es el evento que manejamos si hacemos click en el boton, a este evento le pasamos el año en cuestion seleccionado, por lo tanto el activeButton se convertira en ese año
   
 	function handleClick(year) {
+		 // Si se hace clic en el mismo año que ya está seleccionado, no hacemos nada
+		 if (activeButton === year) {
+			return;
+		}
+
 		// Si se hace clic en "All", simplemente actualizamos activeButton
 		if (year === 'All') {
 			activeButton = year;
 		} else {
 			// Si se hace clic en otro año, actualizamos activeButton solo si es diferente al año actualmente seleccionado
-			activeButton = activeButton === year ? null : year;
+			activeButton = year;
 		}
 	}
 
@@ -37,16 +42,18 @@ export let info;
 </script>
 
 <ol class="switch">
-    <li on:click={() => handleClick(null)} class:orange={!activeButton}>
+    <li>
         <!-- Botón "All" -->
-        
+        <button  on:click={() => handleClick(null)} class:orange={!activeButton}>
             <a href="/">All</a>
-        
+		</button>        
     </li>
     {#each yearsOrdenados2 as year}
-        <li on:click={() => handleClick(year)} class:orange={activeButton === year}>
+        <li >
             <!-- Botones de los años -->
-                <a href="/http203-{year}/">{year}</a>
+			<button on:click={() => handleClick(year)} class:orange={activeButton === year}>
+				<a href="/http203-{year}/">{year}</a>
+			</button>
         </li>
     {/each}
 </ol>
