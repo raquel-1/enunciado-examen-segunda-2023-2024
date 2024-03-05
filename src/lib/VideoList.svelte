@@ -67,9 +67,9 @@
 	}
 	li{
 		margin: 1rem;
-		width: 15rem;
+		width: 13rem;
 		background-color:white;
-		height: 14rem;
+		height: 13rem;
 		overflow: hidden;
 	}
 	img{

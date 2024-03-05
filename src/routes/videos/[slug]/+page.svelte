@@ -1,7 +1,42 @@
 <script>
 	import VideoList from '../../../lib/VideoList.svelte';
-</script>
+	import { formatDate } from '$lib/utils.js';
 
+	export let data;
+	console.log(data);
+	const idFoto = data.slug;
+	console.log(idFoto);//lo coge
+	const videos = data.videos;
+	const descripciones = data.descripciones;
+	
+	let videosFiltrados;
+	let id;
+	$: {
+		let id = data.slug;
+		videosFiltrados = videos.filter((video) => id === video.id);
+	}
+	//para que svelte lea un texto como HTMl, debemos utilizar el atributo @html, para hacerlo mas practico en este caso lo metemos dentro de una variable, y luego le aplicamos el atributo
+	let htmlContent = descripciones.description;
+</script>
+<div>
+	{#each videosFiltrados as video}
+		<div>
+			<img
+				src="http://localhost:4000/{idFoto}/maxres.jpg"
+				alt="How rotate(0) fixed my transform animation | HTTP 203"
+			/>
+		</div>
+		<div>
+			<h1>{video.title}</h1>
+			<time>{formatDate(new Date(video.published))}</time>
+			<div>{@html htmlContent}</div>
+		</div>
+	{/each}
+	<div>
+		<VideoList info={videos}/>
+	</div>
+</div>
+<!--
 <div>
 	<div>
 		<img
@@ -39,3 +74,7 @@
 		<VideoList />
 	</div>
 </div>
+	
+-->
+
+

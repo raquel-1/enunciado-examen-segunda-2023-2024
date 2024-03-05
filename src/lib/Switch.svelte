@@ -9,14 +9,12 @@ export let info;
 
 	//Ordenar los años de forma descendiente(forma en el cliente)
 	const yearsOrdenados = videosFiltrados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
-	console.log(yearsOrdenados);
+	//console.log(yearsOrdenados);
 
 	//OTRA FORMA DE HACERLO
 	const arraySinDuplicados = [...filtrar];
 	const yearsOrdenados2 = arraySinDuplicados.sort((a, b) => b - a);//ascendente; y descendente: (a, b) => a - b
-	console.log(yearsOrdenados2);
-
-
+	//console.log(yearsOrdenados2);
 
 	
 	//esta variable indicara que boton esta pulsado(que año), se inicializara primero en null, y en el handleClick es cuando ira cambiando su valor

@@ -2,7 +2,7 @@ import { redirect } from '@sveltejs/kit';
 //para cargarlo una vez 
 //exportamos una funcion la cual se encargara de cargar la informacion que queramos, toda los objetos o constantes que se devuelvan en la funcion load estaran dentro de data
 export const load = async (serverLoadEvent) => {
-	console.log('Load function called in page.server.js');
+	console.log('Load function called in layout.server.js');
 	//sacamos el objeto fetch del evento junto con los parametros recibidos
 	const { fetch } = serverLoadEvent;
 	//Creamos una variable la cual espera hasta que la ruta del producto elegido haya llegado al servidor, y la guarda
