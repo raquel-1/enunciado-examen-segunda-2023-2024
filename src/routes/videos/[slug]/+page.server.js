@@ -7,7 +7,6 @@ Nota: para formatear la fecha puede llamar a la función formatDate que se encue
 Nota: Los datos del vídeo ya están en el cliente y, por lo tanto, no se cargarán desde el servidor.
 */
 
-
 /*FUNCION LOAD SOLO PARA EL SERVIDOR*/
 //exportamos una funcion la cual se encargara de cargar la informacion que queramos, 
 //toda los objetos o constantes que se devuelvan en la funcion load estaran dentro de data

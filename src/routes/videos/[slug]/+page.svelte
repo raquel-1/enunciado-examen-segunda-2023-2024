@@ -3,12 +3,13 @@
 	import { formatDate } from '$lib/utils.js';
 
 	export let data; 
-	let videos=data.videos;//esto no cambia
+	let videos=data.videos;//esto no cambia por que le paso todos los video a video list
 
 	//esto si cambia por eso se declara vacio y sa asigna valor en el $:{  }
 	let idFoto;
 	let videosFiltrados = [];
 	let descripciones = {};
+	
 	let htmlContent = '';
 
 	
@@ -25,7 +26,7 @@
 	
 	{#each videosFiltrados as video (video.id)}
 		<div>
-			<img style="height: 28rem;"
+			<img style="height: 25rem;"
 				src="http://localhost:4000/{idFoto}/maxres.jpg"
 				alt="{video.title}"
 			/>

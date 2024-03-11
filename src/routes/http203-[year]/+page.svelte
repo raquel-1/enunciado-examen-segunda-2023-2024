@@ -8,6 +8,8 @@
 	let videosFiltrados;
 	let year;
 
+	let borraraEstoNosirve;
+
 	 // Esta línea define una reactividad computada.
 	//se ejecuta cada vez que cambie alguna variable de las que tengamos declaradas(en este caso year), 
 	//por lo tanto esto se hace todas las veces necesarias(reactiva)
